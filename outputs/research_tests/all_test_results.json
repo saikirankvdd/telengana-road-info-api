@@ -1,0 +1,79 @@
+{
+  "test_run": {
+    "started_at": "2026-10-04T22:44:51.107121+00:00",
+    "completed_at": "2026-10-04T22:48:54.807607+00:00",
+    "api_version": "1.0.0",
+    "environment": "LOCAL"
+  },
+  "canonical_db_safety": {
+    "initial_counts": {
+      "projects": 3844,
+      "tenders": 4360,
+      "contractors": 1997,
+      "authorities": 147,
+      "project_contractors": 0,
+      "project_tenders": 0,
+      "project_authorities": 0
+    },
+    "post_counts": {
+      "projects": 3844,
+      "tenders": 4360,
+      "contractors": 1997,
+      "authorities": 147,
+      "project_contractors": 0,
+      "project_tenders": 0,
+      "project_authorities": 0
+    },
+    "canonical_mutations": 0,
+    "mutation_details": {}
+  },
+  "tests": [
+    {
+      "test_case": "Uppal Elevated Corridor",
+      "result_file": "01_uppal_elevated_corridor.json",
+      "status": "PASSED",
+      "research_status": "COMPLETED",
+      "quality_class": "POOR",
+      "overall_quality_score": 0.5,
+      "merge_eligible": false,
+      "anti_hallucination_passed": true
+    },
+    {
+      "test_case": "IIT Hyderabad campus infrastructure",
+      "result_file": "02_iit_hyderabad_infrastructure.json",
+      "status": "PASSED",
+      "research_status": "COMPLETED",
+      "quality_class": "POOR",
+      "overall_quality_score": 0.5,
+      "merge_eligible": false,
+      "anti_hallucination_passed": true
+    },
+    {
+      "test_case": "DEVELOPMENT OF NEW A SITE RO AT LOCATION FROM BAGEPALI JUNCTION TO PERESANDRA CROSS ON HYDERABAD BANGALORE ROAD (NH-7) LHS, CHIKKABALLAPUR/ MnC/SR/URV/LT/009/KASO/2026-27",
+      "result_file": "03_existing_canonical_project.json",
+      "status": "PASSED",
+      "research_status": "COMPLETED",
+      "quality_class": "POOR",
+      "overall_quality_score": 0.5,
+      "merge_eligible": false,
+      "anti_hallucination_passed": true
+    },
+    {
+      "test_case": "XYZ_Fake_Nonexistent_Bridge_Project_99999_TG",
+      "result_file": "04_nonexistent_project.json",
+      "status": "PASSED",
+      "research_status": "COMPLETED",
+      "quality_class": "POOR",
+      "overall_quality_score": 0.5,
+      "merge_eligible": false,
+      "anti_hallucination_passed": true
+    }
+  ],
+  "summary": {
+    "tests_run": 4,
+    "tests_passed": 4,
+    "tests_failed": 0,
+    "hallucination_failures": 0,
+    "canonical_mutations": 0
+  }
+}

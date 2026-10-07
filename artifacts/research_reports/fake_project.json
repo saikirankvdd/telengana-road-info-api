@@ -1,0 +1,1306 @@
+{
+  "project_id": null,
+  "project_name_query": "XYZ_Fake_Nonexistent_Bridge_Project_99999_TG",
+  "project": {
+    "project_name": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:16:49.498017+00:00"
+    },
+    "project_id": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:16:49.498113+00:00"
+    },
+    "government_project_id": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:16:49.498164+00:00"
+    },
+    "tender_id": {
+      "value": "tice",
+      "verification_status": "VERIFIED",
+      "confidence": 0.8,
+      "sources": [
+        {
+          "source_id": "secondary_news_8302",
+          "source_url": "https://www.telangana.gov.in/tenders/",
+          "source_name": "Established Media & News Coverage",
+          "source_type": "government_portal",
+          "publisher": "Media",
+          "title": "Tenders - Telangana State Portal",
+          "retrieved_at": "2026-10-05T10:16:01.478563+00:00",
+          "evidence_text": "Explore Tenders on Telangana State Portal – official info and services for citizens by Telangana government.",
+          "document_date": null,
+          "authority_level": "SECONDARY",
+          "page": null
+        }
+      ],
+      "candidate_values": [
+        {
+          "value": "tice",
+          "source": {
+            "source_id": "secondary_news_8302",
+            "source_url": "https://www.telangana.gov.in/tenders/",
+            "source_name": "Established Media & News Coverage",
+            "source_type": "government_portal",
+            "publisher": "Media",
+            "title": "Tenders - Telangana State Portal",
+            "retrieved_at": "2026-10-05T10:16:01.478563+00:00",
+            "evidence_text": "Explore Tenders on Telangana State Portal – official info and services for citizens by Telangana government.",
+            "document_date": null,
+            "authority_level": "SECONDARY",
+            "page": null
+          },
+          "confidence": 0.8,
+          "evidence_snippet": "Tender Notice"
+        }
+      ],
+      "evidence_text": "Tender Notice",
+      "retrieved_at": "2026-10-05T10:16:49.498600+00:00"
+    },
+    "reference_number": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:16:49.498695+00:00"
+    },
+    "tender_reference": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:16:49.498739+00:00"
+    },
+    "tender_publication_date": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:16:49.498775+00:00"
+    },
+    "publication_date": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:16:49.498809+00:00"
+    },
+    "tender_closing_date": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:16:49.498843+00:00"
+    },
+    "submission_deadline": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:16:49.498876+00:00"
+    },
+    "award_date": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:16:49.498908+00:00"
+    },
+    "awarded_date": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:16:49.498942+00:00"
+    },
+    "government_order_number": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:16:49.498974+00:00"
+    },
+    "government_order_date": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:16:49.499007+00:00"
+    },
+    "authority": {
+      "value": "Government of Telangana",
+      "verification_status": "VERIFIED",
+      "confidence": 0.8,
+      "sources": [
+        {
+          "source_id": "secondary_news_8302",
+          "source_url": "https://www.telangana.gov.in/tenders/",
+          "source_name": "Established Media & News Coverage",
+          "source_type": "government_portal",
+          "publisher": "Media",
+          "title": "Tenders - Telangana State Portal",
+          "retrieved_at": "2026-10-05T10:16:01.478563+00:00",
+          "evidence_text": "Explore Tenders on Telangana State Portal – official info and services for citizens by Telangana government.",
+          "document_date": null,
+          "authority_level": "SECONDARY",
+          "page": null
+        }
+      ],
+      "candidate_values": [
+        {
+          "value": "Government of Telangana",
+          "source": {
+            "source_id": "secondary_news_8302",
+            "source_url": "https://www.telangana.gov.in/tenders/",
+            "source_name": "Established Media & News Coverage",
+            "source_type": "government_portal",
+            "publisher": "Media",
+            "title": "Tenders - Telangana State Portal",
+            "retrieved_at": "2026-10-05T10:16:01.478563+00:00",
+            "evidence_text": "Explore Tenders on Telangana State Portal – official info and services for citizens by Telangana government.",
+            "document_date": null,
+            "authority_level": "SECONDARY",
+            "page": null
+          },
+          "confidence": 0.85,
+          "evidence_snippet": "Authority 'Government of Telangana' identified in source evidence"
+        }
+      ],
+      "evidence_text": "Authority 'Government of Telangana' identified in source evidence",
+      "retrieved_at": "2026-10-05T10:16:49.499091+00:00"
+    },
+    "department": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:16:49.499148+00:00"
+    },
+    "contractor": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:16:49.499183+00:00"
+    },
+    "contractor_registration": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:16:49.499237+00:00"
+    },
+    "estimated_cost": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:16:49.499274+00:00"
+    },
+    "tender_value": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:16:49.499309+00:00"
+    },
+    "awarded_cost": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:16:49.499342+00:00"
+    },
+    "project_length": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:16:49.499373+00:00"
+    },
+    "road_length_km": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:16:49.499407+00:00"
+    },
+    "lanes": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:16:49.499440+00:00"
+    },
+    "number_of_lanes": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:16:49.499472+00:00"
+    },
+    "location": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:16:49.499504+00:00"
+    },
+    "district": {
+      "value": "Hyderabad",
+      "verification_status": "VERIFIED",
+      "confidence": 0.8,
+      "sources": [
+        {
+          "source_id": "secondary_news_8302",
+          "source_url": "https://www.telangana.gov.in/tenders/",
+          "source_name": "Established Media & News Coverage",
+          "source_type": "government_portal",
+          "publisher": "Media",
+          "title": "Tenders - Telangana State Portal",
+          "retrieved_at": "2026-10-05T10:16:01.478563+00:00",
+          "evidence_text": "Explore Tenders on Telangana State Portal – official info and services for citizens by Telangana government.",
+          "document_date": null,
+          "authority_level": "SECONDARY",
+          "page": null
+        }
+      ],
+      "candidate_values": [
+        {
+          "value": "Hyderabad",
+          "source": {
+            "source_id": "secondary_news_8302",
+            "source_url": "https://www.telangana.gov.in/tenders/",
+            "source_name": "Established Media & News Coverage",
+            "source_type": "government_portal",
+            "publisher": "Media",
+            "title": "Tenders - Telangana State Portal",
+            "retrieved_at": "2026-10-05T10:16:01.478563+00:00",
+            "evidence_text": "Explore Tenders on Telangana State Portal – official info and services for citizens by Telangana government.",
+            "document_date": null,
+            "authority_level": "SECONDARY",
+            "page": null
+          },
+          "confidence": 0.8,
+          "evidence_snippet": "District 'Hyderabad' identified in evidence text"
+        }
+      ],
+      "evidence_text": "District 'Hyderabad' identified in evidence text",
+      "retrieved_at": "2026-10-05T10:16:49.499576+00:00"
+    },
+    "mandal": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:16:49.499629+00:00"
+    },
+    "constituency": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:16:49.499664+00:00"
+    },
+    "start_point": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:16:49.499695+00:00"
+    },
+    "end_point": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:16:49.499727+00:00"
+    },
+    "start_chainage": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:16:49.499760+00:00"
+    },
+    "end_chainage": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:16:49.499790+00:00"
+    },
+    "latitude": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:16:49.499821+00:00"
+    },
+    "longitude": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:16:49.499853+00:00"
+    },
+    "status": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:16:49.499884+00:00"
+    },
+    "completion_date": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:16:49.499916+00:00"
+    },
+    "contract_start_date": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:16:49.499947+00:00"
+    },
+    "contract_end_date": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:16:49.499978+00:00"
+    },
+    "work_order_number": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:16:49.500009+00:00"
+    },
+    "funding_agency": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:16:49.500040+00:00"
+    },
+    "road_number": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:16:49.500072+00:00"
+    },
+    "dpr_reference": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:16:49.500104+00:00"
+    },
+    "physical_progress": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:16:49.500138+00:00"
+    },
+    "financial_progress": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:16:49.500170+00:00"
+    },
+    "delay_reason": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:16:49.500202+00:00"
+    },
+    "execution_mode": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:16:49.500259+00:00"
+    },
+    "road_structure": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:16:49.500292+00:00"
+    },
+    "foundation": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:16:49.500324+00:00"
+    },
+    "viaduct_length": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:16:49.500356+00:00"
+    }
+  },
+  "sources": [
+    {
+      "source_id": "TOD_TOD_001",
+      "source_url": "https://data.telangana.gov.in/dataset/TOD_001",
+      "source_name": "Telangana Open Data Portal",
+      "source_type": "government_portal",
+      "publisher": "Telangana Roads & Buildings Department",
+      "title": "Telangana Open Data Record for XYZ_Fake_Nonexistent_Bridge_Project_99999_TG",
+      "retrieved_at": "2026-10-05T10:15:12.738408+00:00",
+      "evidence_text": "Dataset: Telangana Open Data Record for XYZ_Fake_Nonexistent_Bridge_Project_99999_TG, Dept: Telangana Roads & Buildings Department, Description: Official infrastructure dataset for XYZ_Fake_Nonexistent_Bridge_Project_99999_TG",
+      "document_date": null,
+      "authority_level": "PRIMARY",
+      "page": null
+    },
+    {
+      "source_id": "cppp_eproc_3949",
+      "source_url": "https://www.youtube.com/channel/UCebC4x5l2-PQxg46Ucv9CsA",
+      "source_name": "Central Public Procurement Portal (CPPP / eProcure)",
+      "source_type": "government_portal",
+      "publisher": "NIC / Ministry of Finance",
+      "title": "Crazy XYZ - YouTube",
+      "retrieved_at": "2026-10-05T10:15:36.205686+00:00",
+      "evidence_text": "Hello Guys, We create and upload videos related to Science Experiments, Life Hacks, Fun Challenges, Amazing Modification, Diwali …",
+      "document_date": null,
+      "authority_level": "PRIMARY",
+      "page": null
+    },
+    {
+      "source_id": "cppp_eproc_2517",
+      "source_url": "https://nic.xyz/",
+      "source_name": "Central Public Procurement Portal (CPPP / eProcure)",
+      "source_type": "government_portal",
+      "publisher": "NIC / Ministry of Finance",
+      "title": ".xyz Official Registry Operator Website",
+      "retrieved_at": "2026-10-05T10:15:36.205837+00:00",
+      "evidence_text": "We are the Registry Operator for .xyz domain names. We created .xyz to connect Generations X, Y, and Z and to provide choice to internet …",
+      "document_date": null,
+      "authority_level": "PRIMARY",
+      "page": null
+    },
+    {
+      "source_id": "cppp_eproc_585",
+      "source_url": "https://gen.xyz/",
+      "source_name": "Central Public Procurement Portal (CPPP / eProcure)",
+      "source_type": "government_portal",
+      "publisher": "NIC / Ministry of Finance",
+      "title": ".xyz Domain Names | Join Generation XYZ",
+      "retrieved_at": "2026-10-05T10:15:36.205935+00:00",
+      "evidence_text": "Latest news from .xyz 07/17/2026 – 5 .xyz websites that function as online hubs 10/02/2026 – Discover 4 cybersecurity companies …",
+      "document_date": null,
+      "authority_level": "PRIMARY",
+      "page": null
+    },
+    {
+      "source_id": "secondary_news_6154",
+      "source_url": "https://tender.telangana.gov.in/login.html",
+      "source_name": "Established Media & News Coverage",
+      "source_type": "government_portal",
+      "publisher": "Media",
+      "title": "Telangana State eProcurement Portal",
+      "retrieved_at": "2026-10-05T10:16:01.478449+00:00",
+      "evidence_text": "1 day ago · All concerned departments are requested to extend tenders closing on Monday and Tuesday to avoid difficulties for …Explore Tenders on Telangana State Portal – official …All concerned departments are requested to extend …Kind Attention Department users and Bidders : As per …eOffice is the Telangana Government's digital platform …TGTPC E-Procurement Home TGTPC E-Procurment …e-Services We Can Offer You ! Explore our range of e …Official Telangana Government portal offering …The bidder shall attach all the required documents for …",
+      "document_date": null,
+      "authority_level": "SECONDARY",
+      "page": null
+    },
+    {
+      "source_id": "secondary_news_8302",
+      "source_url": "https://www.telangana.gov.in/tenders/",
+      "source_name": "Established Media & News Coverage",
+      "source_type": "government_portal",
+      "publisher": "Media",
+      "title": "Tenders - Telangana State Portal",
+      "retrieved_at": "2026-10-05T10:16:01.478563+00:00",
+      "evidence_text": "Explore Tenders on Telangana State Portal – official info and services for citizens by Telangana government.",
+      "document_date": null,
+      "authority_level": "SECONDARY",
+      "page": null
+    },
+    {
+      "source_id": "secondary_news_9164",
+      "source_url": "https://roadbuild.telangana.gov.in/",
+      "source_name": "Established Media & News Coverage",
+      "source_type": "government_portal",
+      "publisher": "Media",
+      "title": "Telangana - TSROADS",
+      "retrieved_at": "2026-10-05T10:16:01.478635+00:00",
+      "evidence_text": "WELCOME Roads are the life-line of nation providing transportation facility over the length and breadth of country. Systematic …",
+      "document_date": null,
+      "authority_level": "SECONDARY",
+      "page": null
+    }
+  ],
+  "field_verifications": {
+    "project_name": "NOT_FOUND",
+    "project_id": "NOT_FOUND",
+    "government_project_id": "NOT_FOUND",
+    "tender_id": "VERIFIED",
+    "reference_number": "NOT_FOUND",
+    "tender_reference": "NOT_FOUND",
+    "tender_publication_date": "NOT_FOUND",
+    "publication_date": "NOT_FOUND",
+    "tender_closing_date": "NOT_FOUND",
+    "submission_deadline": "NOT_FOUND",
+    "award_date": "NOT_FOUND",
+    "awarded_date": "NOT_FOUND",
+    "government_order_number": "NOT_FOUND",
+    "government_order_date": "NOT_FOUND",
+    "authority": "VERIFIED",
+    "department": "NOT_FOUND",
+    "contractor": "NOT_FOUND",
+    "contractor_registration": "NOT_FOUND",
+    "estimated_cost": "NOT_FOUND",
+    "tender_value": "NOT_FOUND",
+    "awarded_cost": "NOT_FOUND",
+    "project_length": "NOT_FOUND",
+    "road_length_km": "NOT_FOUND",
+    "lanes": "NOT_FOUND",
+    "number_of_lanes": "NOT_FOUND",
+    "location": "NOT_FOUND",
+    "district": "VERIFIED",
+    "mandal": "NOT_FOUND",
+    "constituency": "NOT_FOUND",
+    "start_point": "NOT_FOUND",
+    "end_point": "NOT_FOUND",
+    "start_chainage": "NOT_FOUND",
+    "end_chainage": "NOT_FOUND",
+    "latitude": "NOT_FOUND",
+    "longitude": "NOT_FOUND",
+    "status": "NOT_FOUND",
+    "completion_date": "NOT_FOUND",
+    "contract_start_date": "NOT_FOUND",
+    "contract_end_date": "NOT_FOUND",
+    "work_order_number": "NOT_FOUND",
+    "funding_agency": "NOT_FOUND",
+    "road_number": "NOT_FOUND",
+    "dpr_reference": "NOT_FOUND",
+    "physical_progress": "NOT_FOUND",
+    "financial_progress": "NOT_FOUND",
+    "delay_reason": "NOT_FOUND",
+    "execution_mode": "NOT_FOUND",
+    "road_structure": "NOT_FOUND",
+    "foundation": "NOT_FOUND",
+    "viaduct_length": "NOT_FOUND"
+  },
+  "research_metadata": {
+    "searched_at": "2026-10-05T10:16:49.500394+00:00",
+    "research_duration": 99.5834,
+    "sources_checked": 5,
+    "sources_successfully_accessed": 7,
+    "sources_selected": 5,
+    "sources_attempted": 5,
+    "sources_accessed": 7,
+    "sources_failed": 1,
+    "sources_not_accessible": 0,
+    "source_results_found": 7,
+    "source_results_used": 7,
+    "fields_requested": 50,
+    "fields_found": 3,
+    "fields_verified": 3,
+    "fields_unverified": 0,
+    "fields_not_found": 47,
+    "conflicts_found": 0,
+    "research_status": "COMPLETED"
+  },
+  "research_run_id": 15,
+  "evidence": [
+    {
+      "field_name": "project_name",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:16:49.528164"
+    },
+    {
+      "field_name": "project_id",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:16:49.528176"
+    },
+    {
+      "field_name": "government_project_id",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:16:49.528179"
+    },
+    {
+      "field_name": "tender_id",
+      "extracted_value": "tice",
+      "verification_status": "VERIFIED",
+      "confidence": 0.8,
+      "evidence_snippet": "Tender Notice",
+      "source_url": "https://www.telangana.gov.in/tenders/",
+      "retrieved_at": "2026-10-05T10:16:49.528181"
+    },
+    {
+      "field_name": "reference_number",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:16:49.528184"
+    },
+    {
+      "field_name": "tender_reference",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:16:49.528186"
+    },
+    {
+      "field_name": "tender_publication_date",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:16:49.528189"
+    },
+    {
+      "field_name": "publication_date",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:16:49.528192"
+    },
+    {
+      "field_name": "tender_closing_date",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:16:49.528194"
+    },
+    {
+      "field_name": "submission_deadline",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:16:49.528197"
+    },
+    {
+      "field_name": "award_date",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:16:49.528199"
+    },
+    {
+      "field_name": "awarded_date",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:16:49.528202"
+    },
+    {
+      "field_name": "government_order_number",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:16:49.528229"
+    },
+    {
+      "field_name": "government_order_date",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:16:49.528232"
+    },
+    {
+      "field_name": "authority",
+      "extracted_value": "Government of Telangana",
+      "verification_status": "VERIFIED",
+      "confidence": 0.8,
+      "evidence_snippet": "Authority 'Government of Telangana' identified in source evidence",
+      "source_url": "https://www.telangana.gov.in/tenders/",
+      "retrieved_at": "2026-10-05T10:16:49.528234"
+    },
+    {
+      "field_name": "department",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:16:49.528237"
+    },
+    {
+      "field_name": "contractor",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:16:49.528239"
+    },
+    {
+      "field_name": "contractor_registration",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:16:49.528242"
+    },
+    {
+      "field_name": "estimated_cost",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:16:49.528244"
+    },
+    {
+      "field_name": "tender_value",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:16:49.528246"
+    },
+    {
+      "field_name": "awarded_cost",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:16:49.528249"
+    },
+    {
+      "field_name": "project_length",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:16:49.528251"
+    },
+    {
+      "field_name": "road_length_km",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:16:49.528254"
+    },
+    {
+      "field_name": "lanes",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:16:49.528256"
+    },
+    {
+      "field_name": "number_of_lanes",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:16:49.528259"
+    },
+    {
+      "field_name": "location",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:16:49.528261"
+    },
+    {
+      "field_name": "district",
+      "extracted_value": "Hyderabad",
+      "verification_status": "VERIFIED",
+      "confidence": 0.8,
+      "evidence_snippet": "District 'Hyderabad' identified in evidence text",
+      "source_url": "https://www.telangana.gov.in/tenders/",
+      "retrieved_at": "2026-10-05T10:16:49.528264"
+    },
+    {
+      "field_name": "mandal",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:16:49.528266"
+    },
+    {
+      "field_name": "constituency",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:16:49.528268"
+    },
+    {
+      "field_name": "start_point",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:16:49.528271"
+    },
+    {
+      "field_name": "end_point",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:16:49.528273"
+    },
+    {
+      "field_name": "start_chainage",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:16:49.528276"
+    },
+    {
+      "field_name": "end_chainage",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:16:49.528278"
+    },
+    {
+      "field_name": "latitude",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:16:49.528281"
+    },
+    {
+      "field_name": "longitude",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:16:49.528284"
+    },
+    {
+      "field_name": "status",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:16:49.528286"
+    },
+    {
+      "field_name": "completion_date",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:16:49.528289"
+    },
+    {
+      "field_name": "contract_start_date",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:16:49.528292"
+    },
+    {
+      "field_name": "contract_end_date",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:16:49.528294"
+    },
+    {
+      "field_name": "work_order_number",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:16:49.528297"
+    },
+    {
+      "field_name": "funding_agency",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:16:49.528299"
+    },
+    {
+      "field_name": "road_number",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:16:49.528301"
+    },
+    {
+      "field_name": "dpr_reference",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:16:49.528304"
+    },
+    {
+      "field_name": "physical_progress",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:16:49.528306"
+    },
+    {
+      "field_name": "financial_progress",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:16:49.528308"
+    },
+    {
+      "field_name": "delay_reason",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:16:49.528311"
+    },
+    {
+      "field_name": "execution_mode",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:16:49.528313"
+    },
+    {
+      "field_name": "road_structure",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:16:49.528315"
+    },
+    {
+      "field_name": "foundation",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:16:49.528317"
+    },
+    {
+      "field_name": "viaduct_length",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:16:49.528320"
+    }
+  ],
+  "candidate_values": [
+    {
+      "value": "tice",
+      "source": {
+        "source_id": "secondary_news_8302",
+        "source_url": "https://www.telangana.gov.in/tenders/",
+        "source_name": "Established Media & News Coverage",
+        "source_type": "government_portal",
+        "publisher": "Media",
+        "title": "Tenders - Telangana State Portal",
+        "retrieved_at": "2026-10-05T10:16:01.478563+00:00",
+        "evidence_text": "Explore Tenders on Telangana State Portal – official info and services for citizens by Telangana government.",
+        "document_date": null,
+        "authority_level": "SECONDARY",
+        "page": null
+      },
+      "confidence": 0.8,
+      "evidence_snippet": "Tender Notice",
+      "field_name": "tender_id"
+    },
+    {
+      "value": "Government of Telangana",
+      "source": {
+        "source_id": "secondary_news_8302",
+        "source_url": "https://www.telangana.gov.in/tenders/",
+        "source_name": "Established Media & News Coverage",
+        "source_type": "government_portal",
+        "publisher": "Media",
+        "title": "Tenders - Telangana State Portal",
+        "retrieved_at": "2026-10-05T10:16:01.478563+00:00",
+        "evidence_text": "Explore Tenders on Telangana State Portal – official info and services for citizens by Telangana government.",
+        "document_date": null,
+        "authority_level": "SECONDARY",
+        "page": null
+      },
+      "confidence": 0.85,
+      "evidence_snippet": "Authority 'Government of Telangana' identified in source evidence",
+      "field_name": "authority"
+    },
+    {
+      "value": "Hyderabad",
+      "source": {
+        "source_id": "secondary_news_8302",
+        "source_url": "https://www.telangana.gov.in/tenders/",
+        "source_name": "Established Media & News Coverage",
+        "source_type": "government_portal",
+        "publisher": "Media",
+        "title": "Tenders - Telangana State Portal",
+        "retrieved_at": "2026-10-05T10:16:01.478563+00:00",
+        "evidence_text": "Explore Tenders on Telangana State Portal – official info and services for citizens by Telangana government.",
+        "document_date": null,
+        "authority_level": "SECONDARY",
+        "page": null
+      },
+      "confidence": 0.8,
+      "evidence_snippet": "District 'Hyderabad' identified in evidence text",
+      "field_name": "district"
+    }
+  ],
+  "verification": {
+    "project_name": "NOT_FOUND",
+    "project_id": "NOT_FOUND",
+    "government_project_id": "NOT_FOUND",
+    "tender_id": "VERIFIED",
+    "reference_number": "NOT_FOUND",
+    "tender_reference": "NOT_FOUND",
+    "tender_publication_date": "NOT_FOUND",
+    "publication_date": "NOT_FOUND",
+    "tender_closing_date": "NOT_FOUND",
+    "submission_deadline": "NOT_FOUND",
+    "award_date": "NOT_FOUND",
+    "awarded_date": "NOT_FOUND",
+    "government_order_number": "NOT_FOUND",
+    "government_order_date": "NOT_FOUND",
+    "authority": "VERIFIED",
+    "department": "NOT_FOUND",
+    "contractor": "NOT_FOUND",
+    "contractor_registration": "NOT_FOUND",
+    "estimated_cost": "NOT_FOUND",
+    "tender_value": "NOT_FOUND",
+    "awarded_cost": "NOT_FOUND",
+    "project_length": "NOT_FOUND",
+    "road_length_km": "NOT_FOUND",
+    "lanes": "NOT_FOUND",
+    "number_of_lanes": "NOT_FOUND",
+    "location": "NOT_FOUND",
+    "district": "VERIFIED",
+    "mandal": "NOT_FOUND",
+    "constituency": "NOT_FOUND",
+    "start_point": "NOT_FOUND",
+    "end_point": "NOT_FOUND",
+    "start_chainage": "NOT_FOUND",
+    "end_chainage": "NOT_FOUND",
+    "latitude": "NOT_FOUND",
+    "longitude": "NOT_FOUND",
+    "status": "NOT_FOUND",
+    "completion_date": "NOT_FOUND",
+    "contract_start_date": "NOT_FOUND",
+    "contract_end_date": "NOT_FOUND",
+    "work_order_number": "NOT_FOUND",
+    "funding_agency": "NOT_FOUND",
+    "road_number": "NOT_FOUND",
+    "dpr_reference": "NOT_FOUND",
+    "physical_progress": "NOT_FOUND",
+    "financial_progress": "NOT_FOUND",
+    "delay_reason": "NOT_FOUND",
+    "execution_mode": "NOT_FOUND",
+    "road_structure": "NOT_FOUND",
+    "foundation": "NOT_FOUND",
+    "viaduct_length": "NOT_FOUND"
+  },
+  "conflicts": [],
+  "quality_report": {
+    "report_id": 15,
+    "research_run_id": 15,
+    "project_name": "XYZ_Fake_Nonexistent_Bridge_Project_99999_TG",
+    "overall_quality_score": 1.0,
+    "quality_class": "EXCELLENT",
+    "fields_checked": 22,
+    "fields_valid": 3,
+    "fields_suspicious": 0,
+    "fields_invalid": 0,
+    "fields_missing": 20,
+    "fields_unsupported": 0,
+    "cross_source_conflicts": 0,
+    "stale_fields_count": 0,
+    "duplicate_candidates_count": 0,
+    "quarantined": false,
+    "is_quarantined": false,
+    "merge_eligible": true,
+    "created_at": "2026-10-05T10:17:20.617255",
+    "issues": []
+  }
+}

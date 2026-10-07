@@ -1,0 +1,1490 @@
+{
+  "project_id": null,
+  "project_name_query": "Uppal Elevated Corridor",
+  "project": {
+    "project_name": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:04:50.659686+00:00"
+    },
+    "project_id": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:04:50.659877+00:00"
+    },
+    "government_project_id": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:04:50.660001+00:00"
+    },
+    "tender_id": {
+      "value": "tice",
+      "verification_status": "VERIFIED",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_id": "src_001",
+          "source_url": "https://www.telangana.gov.in/tenders/",
+          "source_name": "Tenders - Telangana State Portal",
+          "source_type": "tender_portal",
+          "publisher": "www.telangana.gov.in",
+          "title": "Tenders - Telangana State Portal",
+          "retrieved_at": "2026-10-05T10:03:15.534927+00:00",
+          "evidence_text": "Explore Tenders on Telangana State Portal – official info and services for citizens by Telangana government.",
+          "document_date": null,
+          "authority_level": "PRIMARY",
+          "page": null
+        }
+      ],
+      "candidate_values": [
+        {
+          "value": "tice",
+          "source": {
+            "source_id": "src_001",
+            "source_url": "https://www.telangana.gov.in/tenders/",
+            "source_name": "Tenders - Telangana State Portal",
+            "source_type": "tender_portal",
+            "publisher": "www.telangana.gov.in",
+            "title": "Tenders - Telangana State Portal",
+            "retrieved_at": "2026-10-05T10:03:15.534927+00:00",
+            "evidence_text": "Explore Tenders on Telangana State Portal – official info and services for citizens by Telangana government.",
+            "document_date": null,
+            "authority_level": "PRIMARY",
+            "page": null
+          },
+          "confidence": 0.8,
+          "evidence_snippet": "Tender Notice"
+        }
+      ],
+      "evidence_text": "Tender Notice",
+      "retrieved_at": "2026-10-05T10:04:50.660261+00:00"
+    },
+    "reference_number": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:04:50.660437+00:00"
+    },
+    "tender_reference": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:04:50.660534+00:00"
+    },
+    "tender_publication_date": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:04:50.660619+00:00"
+    },
+    "publication_date": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:04:50.660695+00:00"
+    },
+    "tender_closing_date": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:04:50.660777+00:00"
+    },
+    "submission_deadline": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:04:50.660857+00:00"
+    },
+    "award_date": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:04:50.660936+00:00"
+    },
+    "awarded_date": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:04:50.661006+00:00"
+    },
+    "government_order_number": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:04:50.661083+00:00"
+    },
+    "government_order_date": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:04:50.661162+00:00"
+    },
+    "authority": {
+      "value": null,
+      "verification_status": "CONFLICTING",
+      "confidence": 0.3,
+      "sources": [
+        {
+          "source_id": "cppp_eproc_6812",
+          "source_url": "https://en.wikipedia.org/wiki/Uppal_Kalan",
+          "source_name": "Central Public Procurement Portal (CPPP / eProcure)",
+          "source_type": "government_portal",
+          "publisher": "NIC / Ministry of Finance",
+          "title": "Uppal Kalan - Wikipedia",
+          "retrieved_at": "2026-10-05T10:03:14.125159+00:00",
+          "evidence_text": "Uppal is a neighbourhood in Eastern Hyderabad, Telangana, India. It is the mandal headquarters of Uppal mandal in Keesara revenue division in …",
+          "document_date": null,
+          "authority_level": "PRIMARY",
+          "page": null
+        },
+        {
+          "source_id": "src_001",
+          "source_url": "https://www.telangana.gov.in/tenders/",
+          "source_name": "Tenders - Telangana State Portal",
+          "source_type": "tender_portal",
+          "publisher": "www.telangana.gov.in",
+          "title": "Tenders - Telangana State Portal",
+          "retrieved_at": "2026-10-05T10:03:15.534927+00:00",
+          "evidence_text": "Explore Tenders on Telangana State Portal – official info and services for citizens by Telangana government.",
+          "document_date": null,
+          "authority_level": "PRIMARY",
+          "page": null
+        }
+      ],
+      "candidate_values": [
+        {
+          "value": "GHMC",
+          "source": {
+            "source_id": "cppp_eproc_6812",
+            "source_url": "https://en.wikipedia.org/wiki/Uppal_Kalan",
+            "source_name": "Central Public Procurement Portal (CPPP / eProcure)",
+            "source_type": "government_portal",
+            "publisher": "NIC / Ministry of Finance",
+            "title": "Uppal Kalan - Wikipedia",
+            "retrieved_at": "2026-10-05T10:03:14.125159+00:00",
+            "evidence_text": "Uppal is a neighbourhood in Eastern Hyderabad, Telangana, India. It is the mandal headquarters of Uppal mandal in Keesara revenue division in …",
+            "document_date": null,
+            "authority_level": "PRIMARY",
+            "page": null
+          },
+          "confidence": 0.85,
+          "evidence_snippet": "Authority 'GHMC' identified in source evidence"
+        },
+        {
+          "value": "Government of Telangana",
+          "source": {
+            "source_id": "src_001",
+            "source_url": "https://www.telangana.gov.in/tenders/",
+            "source_name": "Tenders - Telangana State Portal",
+            "source_type": "tender_portal",
+            "publisher": "www.telangana.gov.in",
+            "title": "Tenders - Telangana State Portal",
+            "retrieved_at": "2026-10-05T10:03:15.534927+00:00",
+            "evidence_text": "Explore Tenders on Telangana State Portal – official info and services for citizens by Telangana government.",
+            "document_date": null,
+            "authority_level": "PRIMARY",
+            "page": null
+          },
+          "confidence": 0.85,
+          "evidence_snippet": "Authority 'Government of Telangana' identified in source evidence"
+        }
+      ],
+      "evidence_text": "Conflicting values reported across sources for 'authority'",
+      "retrieved_at": "2026-10-05T10:04:50.661346+00:00"
+    },
+    "department": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:04:50.661472+00:00"
+    },
+    "contractor": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:04:50.661556+00:00"
+    },
+    "contractor_registration": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:04:50.661637+00:00"
+    },
+    "estimated_cost": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:04:50.661701+00:00"
+    },
+    "tender_value": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:04:50.661779+00:00"
+    },
+    "awarded_cost": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:04:50.661837+00:00"
+    },
+    "project_length": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:04:50.661910+00:00"
+    },
+    "road_length_km": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:04:50.661974+00:00"
+    },
+    "lanes": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:04:50.662031+00:00"
+    },
+    "number_of_lanes": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:04:50.662086+00:00"
+    },
+    "location": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:04:50.662159+00:00"
+    },
+    "district": {
+      "value": "Hyderabad",
+      "verification_status": "VERIFIED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_id": "cppp_eproc_6812",
+          "source_url": "https://en.wikipedia.org/wiki/Uppal_Kalan",
+          "source_name": "Central Public Procurement Portal (CPPP / eProcure)",
+          "source_type": "government_portal",
+          "publisher": "NIC / Ministry of Finance",
+          "title": "Uppal Kalan - Wikipedia",
+          "retrieved_at": "2026-10-05T10:03:14.125159+00:00",
+          "evidence_text": "Uppal is a neighbourhood in Eastern Hyderabad, Telangana, India. It is the mandal headquarters of Uppal mandal in Keesara revenue division in …",
+          "document_date": null,
+          "authority_level": "PRIMARY",
+          "page": null
+        },
+        {
+          "source_id": "cppp_eproc_7183",
+          "source_url": "https://www.magicbricks.com/Uppal-in-Hyderabad-Overview",
+          "source_name": "Central Public Procurement Portal (CPPP / eProcure)",
+          "source_type": "government_portal",
+          "publisher": "NIC / Ministry of Finance",
+          "title": "Uppal , Hyderabad: Map, Property Rates, Projects, Photos ... - MagicBri…",
+          "retrieved_at": "2026-10-05T10:03:14.125311+00:00",
+          "evidence_text": "Jul 9, 2026 · Know all about Uppal, Hyderabad: Check Uppal map, photos, reviews, residential places, schools, & hospitals. Know property …",
+          "document_date": null,
+          "authority_level": "PRIMARY",
+          "page": null
+        },
+        {
+          "source_id": "src_001",
+          "source_url": "https://www.telangana.gov.in/tenders/",
+          "source_name": "Tenders - Telangana State Portal",
+          "source_type": "tender_portal",
+          "publisher": "www.telangana.gov.in",
+          "title": "Tenders - Telangana State Portal",
+          "retrieved_at": "2026-10-05T10:03:15.534927+00:00",
+          "evidence_text": "Explore Tenders on Telangana State Portal – official info and services for citizens by Telangana government.",
+          "document_date": null,
+          "authority_level": "PRIMARY",
+          "page": null
+        }
+      ],
+      "candidate_values": [
+        {
+          "value": "Hyderabad",
+          "source": {
+            "source_id": "cppp_eproc_6812",
+            "source_url": "https://en.wikipedia.org/wiki/Uppal_Kalan",
+            "source_name": "Central Public Procurement Portal (CPPP / eProcure)",
+            "source_type": "government_portal",
+            "publisher": "NIC / Ministry of Finance",
+            "title": "Uppal Kalan - Wikipedia",
+            "retrieved_at": "2026-10-05T10:03:14.125159+00:00",
+            "evidence_text": "Uppal is a neighbourhood in Eastern Hyderabad, Telangana, India. It is the mandal headquarters of Uppal mandal in Keesara revenue division in …",
+            "document_date": null,
+            "authority_level": "PRIMARY",
+            "page": null
+          },
+          "confidence": 0.8,
+          "evidence_snippet": "District 'Hyderabad' identified in evidence text"
+        },
+        {
+          "value": "Hyderabad",
+          "source": {
+            "source_id": "cppp_eproc_7183",
+            "source_url": "https://www.magicbricks.com/Uppal-in-Hyderabad-Overview",
+            "source_name": "Central Public Procurement Portal (CPPP / eProcure)",
+            "source_type": "government_portal",
+            "publisher": "NIC / Ministry of Finance",
+            "title": "Uppal , Hyderabad: Map, Property Rates, Projects, Photos ... - MagicBri…",
+            "retrieved_at": "2026-10-05T10:03:14.125311+00:00",
+            "evidence_text": "Jul 9, 2026 · Know all about Uppal, Hyderabad: Check Uppal map, photos, reviews, residential places, schools, & hospitals. Know property …",
+            "document_date": null,
+            "authority_level": "PRIMARY",
+            "page": null
+          },
+          "confidence": 0.8,
+          "evidence_snippet": "District 'Hyderabad' identified in evidence text"
+        },
+        {
+          "value": "Hyderabad",
+          "source": {
+            "source_id": "src_001",
+            "source_url": "https://www.telangana.gov.in/tenders/",
+            "source_name": "Tenders - Telangana State Portal",
+            "source_type": "tender_portal",
+            "publisher": "www.telangana.gov.in",
+            "title": "Tenders - Telangana State Portal",
+            "retrieved_at": "2026-10-05T10:03:15.534927+00:00",
+            "evidence_text": "Explore Tenders on Telangana State Portal – official info and services for citizens by Telangana government.",
+            "document_date": null,
+            "authority_level": "PRIMARY",
+            "page": null
+          },
+          "confidence": 0.8,
+          "evidence_snippet": "District 'Hyderabad' identified in evidence text"
+        }
+      ],
+      "evidence_text": "District 'Hyderabad' identified in evidence text",
+      "retrieved_at": "2026-10-05T10:04:50.662320+00:00"
+    },
+    "mandal": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:04:50.662424+00:00"
+    },
+    "constituency": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:04:50.662487+00:00"
+    },
+    "start_point": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:04:50.662571+00:00"
+    },
+    "end_point": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:04:50.662634+00:00"
+    },
+    "start_chainage": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:04:50.662688+00:00"
+    },
+    "end_chainage": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:04:50.662740+00:00"
+    },
+    "latitude": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:04:50.662793+00:00"
+    },
+    "longitude": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:04:50.662846+00:00"
+    },
+    "status": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:04:50.662915+00:00"
+    },
+    "completion_date": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:04:50.662968+00:00"
+    },
+    "contract_start_date": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:04:50.663022+00:00"
+    },
+    "contract_end_date": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:04:50.663076+00:00"
+    },
+    "work_order_number": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:04:50.663129+00:00"
+    },
+    "funding_agency": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:04:50.663183+00:00"
+    },
+    "road_number": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:04:50.663290+00:00"
+    },
+    "dpr_reference": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:04:50.663357+00:00"
+    },
+    "physical_progress": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:04:50.663418+00:00"
+    },
+    "financial_progress": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:04:50.663471+00:00"
+    },
+    "delay_reason": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:04:50.663527+00:00"
+    },
+    "execution_mode": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:04:50.663583+00:00"
+    },
+    "road_structure": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:04:50.663636+00:00"
+    },
+    "foundation": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:04:50.663691+00:00"
+    },
+    "viaduct_length": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:04:50.663745+00:00"
+    }
+  },
+  "sources": [
+    {
+      "source_id": "TOD_TOD_001",
+      "source_url": "https://data.telangana.gov.in/dataset/TOD_001",
+      "source_name": "Telangana Open Data Portal",
+      "source_type": "government_portal",
+      "publisher": "Telangana Roads & Buildings Department",
+      "title": "Telangana Open Data Record for Uppal Elevated Corridor",
+      "retrieved_at": "2026-10-05T10:02:12.004758+00:00",
+      "evidence_text": "Dataset: Telangana Open Data Record for Uppal Elevated Corridor, Dept: Telangana Roads & Buildings Department, Description: Official infrastructure dataset for Uppal Elevated Corridor",
+      "document_date": null,
+      "authority_level": "PRIMARY",
+      "page": null
+    },
+    {
+      "source_id": "cppp_eproc_9578",
+      "source_url": "https://www.uppal.co.in/",
+      "source_name": "Central Public Procurement Portal (CPPP / eProcure)",
+      "source_type": "government_portal",
+      "publisher": "NIC / Ministry of Finance",
+      "title": "Home - The Uppal Group",
+      "retrieved_at": "2026-10-05T10:03:14.124978+00:00",
+      "evidence_text": "We are a collective of passionate professionals who understand that the strength of every outcome lies in the process behind it. Guided …",
+      "document_date": null,
+      "authority_level": "PRIMARY",
+      "page": null
+    },
+    {
+      "source_id": "cppp_eproc_6812",
+      "source_url": "https://en.wikipedia.org/wiki/Uppal_Kalan",
+      "source_name": "Central Public Procurement Portal (CPPP / eProcure)",
+      "source_type": "government_portal",
+      "publisher": "NIC / Ministry of Finance",
+      "title": "Uppal Kalan - Wikipedia",
+      "retrieved_at": "2026-10-05T10:03:14.125159+00:00",
+      "evidence_text": "Uppal is a neighbourhood in Eastern Hyderabad, Telangana, India. It is the mandal headquarters of Uppal mandal in Keesara revenue division in …",
+      "document_date": null,
+      "authority_level": "PRIMARY",
+      "page": null
+    },
+    {
+      "source_id": "cppp_eproc_7183",
+      "source_url": "https://www.magicbricks.com/Uppal-in-Hyderabad-Overview",
+      "source_name": "Central Public Procurement Portal (CPPP / eProcure)",
+      "source_type": "government_portal",
+      "publisher": "NIC / Ministry of Finance",
+      "title": "Uppal , Hyderabad: Map, Property Rates, Projects, Photos ... - MagicBri…",
+      "retrieved_at": "2026-10-05T10:03:14.125311+00:00",
+      "evidence_text": "Jul 9, 2026 · Know all about Uppal, Hyderabad: Check Uppal map, photos, reviews, residential places, schools, & hospitals. Know property …",
+      "document_date": null,
+      "authority_level": "PRIMARY",
+      "page": null
+    },
+    {
+      "source_id": "src_001",
+      "source_url": "https://www.telangana.gov.in/tenders/",
+      "source_name": "Tenders - Telangana State Portal",
+      "source_type": "tender_portal",
+      "publisher": "www.telangana.gov.in",
+      "title": "Tenders - Telangana State Portal",
+      "retrieved_at": "2026-10-05T10:03:15.534927+00:00",
+      "evidence_text": "Explore Tenders on Telangana State Portal – official info and services for citizens by Telangana government.",
+      "document_date": null,
+      "authority_level": "PRIMARY",
+      "page": null
+    },
+    {
+      "source_id": "src_002",
+      "source_url": "https://roadbuild.telangana.gov.in/",
+      "source_name": "Telangana - TSROADS",
+      "source_type": "government_order",
+      "publisher": "roadbuild.telangana.gov.in",
+      "title": "Telangana - TSROADS",
+      "retrieved_at": "2026-10-05T10:03:15.535163+00:00",
+      "evidence_text": "WELCOME Roads are the life-line of nation providing transportation facility over the length and breadth of country. Systematic …",
+      "document_date": null,
+      "authority_level": "PRIMARY",
+      "page": null
+    }
+  ],
+  "field_verifications": {
+    "project_name": "NOT_FOUND",
+    "project_id": "NOT_FOUND",
+    "government_project_id": "NOT_FOUND",
+    "tender_id": "VERIFIED",
+    "reference_number": "NOT_FOUND",
+    "tender_reference": "NOT_FOUND",
+    "tender_publication_date": "NOT_FOUND",
+    "publication_date": "NOT_FOUND",
+    "tender_closing_date": "NOT_FOUND",
+    "submission_deadline": "NOT_FOUND",
+    "award_date": "NOT_FOUND",
+    "awarded_date": "NOT_FOUND",
+    "government_order_number": "NOT_FOUND",
+    "government_order_date": "NOT_FOUND",
+    "authority": "CONFLICTING",
+    "department": "NOT_FOUND",
+    "contractor": "NOT_FOUND",
+    "contractor_registration": "NOT_FOUND",
+    "estimated_cost": "NOT_FOUND",
+    "tender_value": "NOT_FOUND",
+    "awarded_cost": "NOT_FOUND",
+    "project_length": "NOT_FOUND",
+    "road_length_km": "NOT_FOUND",
+    "lanes": "NOT_FOUND",
+    "number_of_lanes": "NOT_FOUND",
+    "location": "NOT_FOUND",
+    "district": "VERIFIED",
+    "mandal": "NOT_FOUND",
+    "constituency": "NOT_FOUND",
+    "start_point": "NOT_FOUND",
+    "end_point": "NOT_FOUND",
+    "start_chainage": "NOT_FOUND",
+    "end_chainage": "NOT_FOUND",
+    "latitude": "NOT_FOUND",
+    "longitude": "NOT_FOUND",
+    "status": "NOT_FOUND",
+    "completion_date": "NOT_FOUND",
+    "contract_start_date": "NOT_FOUND",
+    "contract_end_date": "NOT_FOUND",
+    "work_order_number": "NOT_FOUND",
+    "funding_agency": "NOT_FOUND",
+    "road_number": "NOT_FOUND",
+    "dpr_reference": "NOT_FOUND",
+    "physical_progress": "NOT_FOUND",
+    "financial_progress": "NOT_FOUND",
+    "delay_reason": "NOT_FOUND",
+    "execution_mode": "NOT_FOUND",
+    "road_structure": "NOT_FOUND",
+    "foundation": "NOT_FOUND",
+    "viaduct_length": "NOT_FOUND"
+  },
+  "research_metadata": {
+    "searched_at": "2026-10-05T10:04:50.663809+00:00",
+    "research_duration": 284.5637,
+    "sources_checked": 5,
+    "sources_successfully_accessed": 6,
+    "sources_selected": 5,
+    "sources_attempted": 5,
+    "sources_accessed": 6,
+    "sources_failed": 1,
+    "sources_not_accessible": 0,
+    "source_results_found": 6,
+    "source_results_used": 6,
+    "fields_requested": 50,
+    "fields_found": 3,
+    "fields_verified": 2,
+    "fields_unverified": 0,
+    "fields_not_found": 47,
+    "conflicts_found": 1,
+    "research_status": "COMPLETED"
+  },
+  "research_run_id": 12,
+  "evidence": [
+    {
+      "field_name": "project_name",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:04:50.703236"
+    },
+    {
+      "field_name": "project_id",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:04:50.703248"
+    },
+    {
+      "field_name": "government_project_id",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:04:50.703252"
+    },
+    {
+      "field_name": "tender_id",
+      "extracted_value": "tice",
+      "verification_status": "VERIFIED",
+      "confidence": 0.85,
+      "evidence_snippet": "Tender Notice",
+      "source_url": "https://www.telangana.gov.in/tenders/",
+      "retrieved_at": "2026-10-05T10:04:50.703254"
+    },
+    {
+      "field_name": "reference_number",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:04:50.703258"
+    },
+    {
+      "field_name": "tender_reference",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:04:50.703260"
+    },
+    {
+      "field_name": "tender_publication_date",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:04:50.703263"
+    },
+    {
+      "field_name": "publication_date",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:04:50.703266"
+    },
+    {
+      "field_name": "tender_closing_date",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:04:50.703268"
+    },
+    {
+      "field_name": "submission_deadline",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:04:50.703271"
+    },
+    {
+      "field_name": "award_date",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:04:50.703273"
+    },
+    {
+      "field_name": "awarded_date",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:04:50.703276"
+    },
+    {
+      "field_name": "government_order_number",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:04:50.703279"
+    },
+    {
+      "field_name": "government_order_date",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:04:50.703282"
+    },
+    {
+      "field_name": "authority",
+      "extracted_value": null,
+      "verification_status": "CONFLICTING",
+      "confidence": 0.3,
+      "evidence_snippet": "Conflicting values reported across sources for 'authority'",
+      "source_url": "https://en.wikipedia.org/wiki/Uppal_Kalan",
+      "retrieved_at": "2026-10-05T10:04:50.703284"
+    },
+    {
+      "field_name": "department",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:04:50.703287"
+    },
+    {
+      "field_name": "contractor",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:04:50.703289"
+    },
+    {
+      "field_name": "contractor_registration",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:04:50.703292"
+    },
+    {
+      "field_name": "estimated_cost",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:04:50.703295"
+    },
+    {
+      "field_name": "tender_value",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:04:50.703297"
+    },
+    {
+      "field_name": "awarded_cost",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:04:50.703300"
+    },
+    {
+      "field_name": "project_length",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:04:50.703302"
+    },
+    {
+      "field_name": "road_length_km",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:04:50.703305"
+    },
+    {
+      "field_name": "lanes",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:04:50.703308"
+    },
+    {
+      "field_name": "number_of_lanes",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:04:50.703310"
+    },
+    {
+      "field_name": "location",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:04:50.703313"
+    },
+    {
+      "field_name": "district",
+      "extracted_value": "Hyderabad",
+      "verification_status": "VERIFIED",
+      "confidence": 0.95,
+      "evidence_snippet": "District 'Hyderabad' identified in evidence text",
+      "source_url": "https://en.wikipedia.org/wiki/Uppal_Kalan",
+      "retrieved_at": "2026-10-05T10:04:50.703316"
+    },
+    {
+      "field_name": "mandal",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:04:50.703318"
+    },
+    {
+      "field_name": "constituency",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:04:50.703321"
+    },
+    {
+      "field_name": "start_point",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:04:50.703323"
+    },
+    {
+      "field_name": "end_point",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:04:50.703326"
+    },
+    {
+      "field_name": "start_chainage",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:04:50.703329"
+    },
+    {
+      "field_name": "end_chainage",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:04:50.703331"
+    },
+    {
+      "field_name": "latitude",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:04:50.703334"
+    },
+    {
+      "field_name": "longitude",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:04:50.703336"
+    },
+    {
+      "field_name": "status",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:04:50.703339"
+    },
+    {
+      "field_name": "completion_date",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:04:50.703341"
+    },
+    {
+      "field_name": "contract_start_date",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:04:50.703344"
+    },
+    {
+      "field_name": "contract_end_date",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:04:50.703347"
+    },
+    {
+      "field_name": "work_order_number",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:04:50.703350"
+    },
+    {
+      "field_name": "funding_agency",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:04:50.703353"
+    },
+    {
+      "field_name": "road_number",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:04:50.703356"
+    },
+    {
+      "field_name": "dpr_reference",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:04:50.703358"
+    },
+    {
+      "field_name": "physical_progress",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:04:50.703361"
+    },
+    {
+      "field_name": "financial_progress",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:04:50.703363"
+    },
+    {
+      "field_name": "delay_reason",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:04:50.703366"
+    },
+    {
+      "field_name": "execution_mode",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:04:50.703369"
+    },
+    {
+      "field_name": "road_structure",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:04:50.703371"
+    },
+    {
+      "field_name": "foundation",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:04:50.703373"
+    },
+    {
+      "field_name": "viaduct_length",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:04:50.703376"
+    }
+  ],
+  "candidate_values": [
+    {
+      "value": "tice",
+      "source": {
+        "source_id": "src_001",
+        "source_url": "https://www.telangana.gov.in/tenders/",
+        "source_name": "Tenders - Telangana State Portal",
+        "source_type": "tender_portal",
+        "publisher": "www.telangana.gov.in",
+        "title": "Tenders - Telangana State Portal",
+        "retrieved_at": "2026-10-05T10:03:15.534927+00:00",
+        "evidence_text": "Explore Tenders on Telangana State Portal – official info and services for citizens by Telangana government.",
+        "document_date": null,
+        "authority_level": "PRIMARY",
+        "page": null
+      },
+      "confidence": 0.8,
+      "evidence_snippet": "Tender Notice",
+      "field_name": "tender_id"
+    },
+    {
+      "value": "GHMC",
+      "source": {
+        "source_id": "cppp_eproc_6812",
+        "source_url": "https://en.wikipedia.org/wiki/Uppal_Kalan",
+        "source_name": "Central Public Procurement Portal (CPPP / eProcure)",
+        "source_type": "government_portal",
+        "publisher": "NIC / Ministry of Finance",
+        "title": "Uppal Kalan - Wikipedia",
+        "retrieved_at": "2026-10-05T10:03:14.125159+00:00",
+        "evidence_text": "Uppal is a neighbourhood in Eastern Hyderabad, Telangana, India. It is the mandal headquarters of Uppal mandal in Keesara revenue division in …",
+        "document_date": null,
+        "authority_level": "PRIMARY",
+        "page": null
+      },
+      "confidence": 0.85,
+      "evidence_snippet": "Authority 'GHMC' identified in source evidence",
+      "field_name": "authority"
+    },
+    {
+      "value": "Government of Telangana",
+      "source": {
+        "source_id": "src_001",
+        "source_url": "https://www.telangana.gov.in/tenders/",
+        "source_name": "Tenders - Telangana State Portal",
+        "source_type": "tender_portal",
+        "publisher": "www.telangana.gov.in",
+        "title": "Tenders - Telangana State Portal",
+        "retrieved_at": "2026-10-05T10:03:15.534927+00:00",
+        "evidence_text": "Explore Tenders on Telangana State Portal – official info and services for citizens by Telangana government.",
+        "document_date": null,
+        "authority_level": "PRIMARY",
+        "page": null
+      },
+      "confidence": 0.85,
+      "evidence_snippet": "Authority 'Government of Telangana' identified in source evidence",
+      "field_name": "authority"
+    },
+    {
+      "value": "Hyderabad",
+      "source": {
+        "source_id": "cppp_eproc_6812",
+        "source_url": "https://en.wikipedia.org/wiki/Uppal_Kalan",
+        "source_name": "Central Public Procurement Portal (CPPP / eProcure)",
+        "source_type": "government_portal",
+        "publisher": "NIC / Ministry of Finance",
+        "title": "Uppal Kalan - Wikipedia",
+        "retrieved_at": "2026-10-05T10:03:14.125159+00:00",
+        "evidence_text": "Uppal is a neighbourhood in Eastern Hyderabad, Telangana, India. It is the mandal headquarters of Uppal mandal in Keesara revenue division in …",
+        "document_date": null,
+        "authority_level": "PRIMARY",
+        "page": null
+      },
+      "confidence": 0.8,
+      "evidence_snippet": "District 'Hyderabad' identified in evidence text",
+      "field_name": "district"
+    },
+    {
+      "value": "Hyderabad",
+      "source": {
+        "source_id": "cppp_eproc_7183",
+        "source_url": "https://www.magicbricks.com/Uppal-in-Hyderabad-Overview",
+        "source_name": "Central Public Procurement Portal (CPPP / eProcure)",
+        "source_type": "government_portal",
+        "publisher": "NIC / Ministry of Finance",
+        "title": "Uppal , Hyderabad: Map, Property Rates, Projects, Photos ... - MagicBri…",
+        "retrieved_at": "2026-10-05T10:03:14.125311+00:00",
+        "evidence_text": "Jul 9, 2026 · Know all about Uppal, Hyderabad: Check Uppal map, photos, reviews, residential places, schools, & hospitals. Know property …",
+        "document_date": null,
+        "authority_level": "PRIMARY",
+        "page": null
+      },
+      "confidence": 0.8,
+      "evidence_snippet": "District 'Hyderabad' identified in evidence text",
+      "field_name": "district"
+    },
+    {
+      "value": "Hyderabad",
+      "source": {
+        "source_id": "src_001",
+        "source_url": "https://www.telangana.gov.in/tenders/",
+        "source_name": "Tenders - Telangana State Portal",
+        "source_type": "tender_portal",
+        "publisher": "www.telangana.gov.in",
+        "title": "Tenders - Telangana State Portal",
+        "retrieved_at": "2026-10-05T10:03:15.534927+00:00",
+        "evidence_text": "Explore Tenders on Telangana State Portal – official info and services for citizens by Telangana government.",
+        "document_date": null,
+        "authority_level": "PRIMARY",
+        "page": null
+      },
+      "confidence": 0.8,
+      "evidence_snippet": "District 'Hyderabad' identified in evidence text",
+      "field_name": "district"
+    }
+  ],
+  "verification": {
+    "project_name": "NOT_FOUND",
+    "project_id": "NOT_FOUND",
+    "government_project_id": "NOT_FOUND",
+    "tender_id": "VERIFIED",
+    "reference_number": "NOT_FOUND",
+    "tender_reference": "NOT_FOUND",
+    "tender_publication_date": "NOT_FOUND",
+    "publication_date": "NOT_FOUND",
+    "tender_closing_date": "NOT_FOUND",
+    "submission_deadline": "NOT_FOUND",
+    "award_date": "NOT_FOUND",
+    "awarded_date": "NOT_FOUND",
+    "government_order_number": "NOT_FOUND",
+    "government_order_date": "NOT_FOUND",
+    "authority": "CONFLICTING",
+    "department": "NOT_FOUND",
+    "contractor": "NOT_FOUND",
+    "contractor_registration": "NOT_FOUND",
+    "estimated_cost": "NOT_FOUND",
+    "tender_value": "NOT_FOUND",
+    "awarded_cost": "NOT_FOUND",
+    "project_length": "NOT_FOUND",
+    "road_length_km": "NOT_FOUND",
+    "lanes": "NOT_FOUND",
+    "number_of_lanes": "NOT_FOUND",
+    "location": "NOT_FOUND",
+    "district": "VERIFIED",
+    "mandal": "NOT_FOUND",
+    "constituency": "NOT_FOUND",
+    "start_point": "NOT_FOUND",
+    "end_point": "NOT_FOUND",
+    "start_chainage": "NOT_FOUND",
+    "end_chainage": "NOT_FOUND",
+    "latitude": "NOT_FOUND",
+    "longitude": "NOT_FOUND",
+    "status": "NOT_FOUND",
+    "completion_date": "NOT_FOUND",
+    "contract_start_date": "NOT_FOUND",
+    "contract_end_date": "NOT_FOUND",
+    "work_order_number": "NOT_FOUND",
+    "funding_agency": "NOT_FOUND",
+    "road_number": "NOT_FOUND",
+    "dpr_reference": "NOT_FOUND",
+    "physical_progress": "NOT_FOUND",
+    "financial_progress": "NOT_FOUND",
+    "delay_reason": "NOT_FOUND",
+    "execution_mode": "NOT_FOUND",
+    "road_structure": "NOT_FOUND",
+    "foundation": "NOT_FOUND",
+    "viaduct_length": "NOT_FOUND"
+  },
+  "conflicts": [
+    {
+      "field_name": "authority",
+      "value": null,
+      "sources": [
+        {
+          "source_id": "cppp_eproc_6812",
+          "source_url": "https://en.wikipedia.org/wiki/Uppal_Kalan",
+          "source_name": "Central Public Procurement Portal (CPPP / eProcure)",
+          "source_type": "government_portal",
+          "publisher": "NIC / Ministry of Finance",
+          "title": "Uppal Kalan - Wikipedia",
+          "retrieved_at": "2026-10-05T10:03:14.125159+00:00",
+          "evidence_text": "Uppal is a neighbourhood in Eastern Hyderabad, Telangana, India. It is the mandal headquarters of Uppal mandal in Keesara revenue division in …",
+          "document_date": null,
+          "authority_level": "PRIMARY",
+          "page": null
+        },
+        {
+          "source_id": "src_001",
+          "source_url": "https://www.telangana.gov.in/tenders/",
+          "source_name": "Tenders - Telangana State Portal",
+          "source_type": "tender_portal",
+          "publisher": "www.telangana.gov.in",
+          "title": "Tenders - Telangana State Portal",
+          "retrieved_at": "2026-10-05T10:03:15.534927+00:00",
+          "evidence_text": "Explore Tenders on Telangana State Portal – official info and services for citizens by Telangana government.",
+          "document_date": null,
+          "authority_level": "PRIMARY",
+          "page": null
+        }
+      ],
+      "evidence_snippet": "Conflicting values reported across sources for 'authority'"
+    }
+  ],
+  "quality_report": {
+    "report_id": 12,
+    "research_run_id": 12,
+    "project_name": "Uppal Elevated Corridor",
+    "overall_quality_score": 0.7,
+    "quality_class": "FAIR",
+    "fields_checked": 22,
+    "fields_valid": 1,
+    "fields_suspicious": 1,
+    "fields_invalid": 0,
+    "fields_missing": 21,
+    "fields_unsupported": 0,
+    "cross_source_conflicts": 1,
+    "stale_fields_count": 0,
+    "duplicate_candidates_count": 0,
+    "quarantined": false,
+    "is_quarantined": false,
+    "merge_eligible": true,
+    "created_at": "2026-10-05T10:05:13.353385",
+    "issues": [
+      {
+        "field_name": "district",
+        "rule_name": "CROSS_SOURCE_CONFLICT",
+        "severity": "WARNING",
+        "description": "Field 'district' has conflicting values across sources: 'Hyderabad' (Central Public Procurement Portal (CPPP / eProcure)), 'Hyderabad' (Central Public Procurement Portal (CPPP / eProcure)), 'Hyderabad' (Tenders - Telangana State Portal)",
+        "current_value": "Hyderabad",
+        "source_references": [
+          "https://en.wikipedia.org/wiki/Uppal_Kalan",
+          "https://www.magicbricks.com/Uppal-in-Hyderabad-Overview",
+          "https://www.telangana.gov.in/tenders/"
+        ]
+      }
+    ]
+  }
+}

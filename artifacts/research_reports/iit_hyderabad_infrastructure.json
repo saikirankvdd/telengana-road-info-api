@@ -1,0 +1,1241 @@
+{
+  "project_id": null,
+  "project_name_query": "IIT Hyderabad campus infrastructure",
+  "project": {
+    "project_name": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:10:10.307190+00:00"
+    },
+    "project_id": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:10:10.307335+00:00"
+    },
+    "government_project_id": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:10:10.307387+00:00"
+    },
+    "tender_id": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:10:10.307426+00:00"
+    },
+    "reference_number": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:10:10.307461+00:00"
+    },
+    "tender_reference": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:10:10.307496+00:00"
+    },
+    "tender_publication_date": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:10:10.307530+00:00"
+    },
+    "publication_date": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:10:10.307564+00:00"
+    },
+    "tender_closing_date": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:10:10.307598+00:00"
+    },
+    "submission_deadline": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:10:10.307632+00:00"
+    },
+    "award_date": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:10:10.307669+00:00"
+    },
+    "awarded_date": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:10:10.307704+00:00"
+    },
+    "government_order_number": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:10:10.307738+00:00"
+    },
+    "government_order_date": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:10:10.307771+00:00"
+    },
+    "authority": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:10:10.307805+00:00"
+    },
+    "department": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:10:10.307862+00:00"
+    },
+    "contractor": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:10:10.307916+00:00"
+    },
+    "contractor_registration": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:10:10.307974+00:00"
+    },
+    "estimated_cost": {
+      "value": 2105.0,
+      "verification_status": "VERIFIED",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_id": "data_gov_in_3721",
+          "source_url": "http://www.iitm.ac.in/",
+          "source_name": "Open Government Data Portal India (data.gov.in)",
+          "source_type": "government_portal",
+          "publisher": "Ministry of Electronics & IT",
+          "title": "Indian Institute of Technology Madras",
+          "retrieved_at": "2026-10-05T10:06:21.412990+00:00",
+          "evidence_text": "Apr 11, 2025 · IIT Madras is at the forefront of collaborative learning and research having Joint Ph.D. programs with 20 …",
+          "document_date": null,
+          "authority_level": "PRIMARY",
+          "page": null
+        }
+      ],
+      "candidate_values": [
+        {
+          "value": 2105.0,
+          "source": {
+            "source_id": "data_gov_in_3721",
+            "source_url": "http://www.iitm.ac.in/",
+            "source_name": "Open Government Data Portal India (data.gov.in)",
+            "source_type": "government_portal",
+            "publisher": "Ministry of Electronics & IT",
+            "title": "Indian Institute of Technology Madras",
+            "retrieved_at": "2026-10-05T10:06:21.412990+00:00",
+            "evidence_text": "Apr 11, 2025 · IIT Madras is at the forefront of collaborative learning and research having Joint Ph.D. programs with 20 …",
+            "document_date": null,
+            "authority_level": "PRIMARY",
+            "page": null
+          },
+          "confidence": 0.8,
+          "evidence_snippet": "rs\n2,105\n"
+        }
+      ],
+      "evidence_text": "rs\n2,105\n",
+      "retrieved_at": "2026-10-05T10:10:10.308142+00:00"
+    },
+    "tender_value": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:10:10.308259+00:00"
+    },
+    "awarded_cost": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:10:10.308329+00:00"
+    },
+    "project_length": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:10:10.308390+00:00"
+    },
+    "road_length_km": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:10:10.308450+00:00"
+    },
+    "lanes": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:10:10.308511+00:00"
+    },
+    "number_of_lanes": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:10:10.308570+00:00"
+    },
+    "location": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:10:10.308627+00:00"
+    },
+    "district": {
+      "value": "Hyderabad",
+      "verification_status": "VERIFIED",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_id": "data_gov_in_147",
+          "source_url": "https://en.wikipedia.org/wiki/Indian_Institutes_of_Technology",
+          "source_name": "Open Government Data Portal India (data.gov.in)",
+          "source_type": "government_portal",
+          "publisher": "Ministry of Electronics & IT",
+          "title": "Indian Institutes of Technology - Wikipedia",
+          "retrieved_at": "2026-10-05T10:06:21.412891+00:00",
+          "evidence_text": "Certain IITs, such as IIT Kanpur, IIT Kharagpur, IIT Hyderabad and IIT Gandhinagar, offer students the option to …",
+          "document_date": null,
+          "authority_level": "PRIMARY",
+          "page": null
+        }
+      ],
+      "candidate_values": [
+        {
+          "value": "Hyderabad",
+          "source": {
+            "source_id": "data_gov_in_147",
+            "source_url": "https://en.wikipedia.org/wiki/Indian_Institutes_of_Technology",
+            "source_name": "Open Government Data Portal India (data.gov.in)",
+            "source_type": "government_portal",
+            "publisher": "Ministry of Electronics & IT",
+            "title": "Indian Institutes of Technology - Wikipedia",
+            "retrieved_at": "2026-10-05T10:06:21.412891+00:00",
+            "evidence_text": "Certain IITs, such as IIT Kanpur, IIT Kharagpur, IIT Hyderabad and IIT Gandhinagar, offer students the option to …",
+            "document_date": null,
+            "authority_level": "PRIMARY",
+            "page": null
+          },
+          "confidence": 0.8,
+          "evidence_snippet": "District 'Hyderabad' identified in evidence text"
+        }
+      ],
+      "evidence_text": "District 'Hyderabad' identified in evidence text",
+      "retrieved_at": "2026-10-05T10:10:10.308750+00:00"
+    },
+    "mandal": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:10:10.308842+00:00"
+    },
+    "constituency": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:10:10.308906+00:00"
+    },
+    "start_point": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:10:10.308970+00:00"
+    },
+    "end_point": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:10:10.309031+00:00"
+    },
+    "start_chainage": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:10:10.309090+00:00"
+    },
+    "end_chainage": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:10:10.309152+00:00"
+    },
+    "latitude": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:10:10.309238+00:00"
+    },
+    "longitude": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:10:10.309307+00:00"
+    },
+    "status": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:10:10.309368+00:00"
+    },
+    "completion_date": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:10:10.309427+00:00"
+    },
+    "contract_start_date": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:10:10.309483+00:00"
+    },
+    "contract_end_date": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:10:10.309541+00:00"
+    },
+    "work_order_number": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:10:10.309598+00:00"
+    },
+    "funding_agency": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:10:10.309659+00:00"
+    },
+    "road_number": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:10:10.309720+00:00"
+    },
+    "dpr_reference": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:10:10.309781+00:00"
+    },
+    "physical_progress": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:10:10.309847+00:00"
+    },
+    "financial_progress": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:10:10.309907+00:00"
+    },
+    "delay_reason": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:10:10.309968+00:00"
+    },
+    "execution_mode": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:10:10.310028+00:00"
+    },
+    "road_structure": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:10:10.310087+00:00"
+    },
+    "foundation": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:10:10.310148+00:00"
+    },
+    "viaduct_length": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:10:10.310231+00:00"
+    }
+  },
+  "sources": [
+    {
+      "source_id": "cppp_eproc_9417",
+      "source_url": "https://images.google.co.in/",
+      "source_name": "Central Public Procurement Portal (CPPP / eProcure)",
+      "source_type": "government_portal",
+      "publisher": "NIC / Ministry of Finance",
+      "title": "Google Images",
+      "retrieved_at": "2026-10-05T10:06:03.362637+00:00",
+      "evidence_text": "Google Images. The most comprehensive image search on the web.",
+      "document_date": null,
+      "authority_level": "PRIMARY",
+      "page": null
+    },
+    {
+      "source_id": "cppp_eproc_3747",
+      "source_url": "https://translate.google.co.in/details",
+      "source_name": "Central Public Procurement Portal (CPPP / eProcure)",
+      "source_type": "government_portal",
+      "publisher": "NIC / Ministry of Finance",
+      "title": "Google Translate",
+      "retrieved_at": "2026-10-05T10:06:03.362863+00:00",
+      "evidence_text": "Send feedback Enter text to look up details",
+      "document_date": null,
+      "authority_level": "PRIMARY",
+      "page": null
+    },
+    {
+      "source_id": "cppp_eproc_232",
+      "source_url": "https://maps.google.co.in/mapfiles/home3.html",
+      "source_name": "Central Public Procurement Portal (CPPP / eProcure)",
+      "source_type": "government_portal",
+      "publisher": "NIC / Ministry of Finance",
+      "title": "Google Maps",
+      "retrieved_at": "2026-10-05T10:06:03.363042+00:00",
+      "evidence_text": "Explore the world with Google Maps, find directions, discover places, and learn about its features and updates.",
+      "document_date": null,
+      "authority_level": "PRIMARY",
+      "page": null
+    },
+    {
+      "source_id": "data_gov_in_2477",
+      "source_url": "https://www.iitd.ac.in/",
+      "source_name": "Open Government Data Portal India (data.gov.in)",
+      "source_type": "government_portal",
+      "publisher": "Ministry of Electronics & IT",
+      "title": "Home Page : IIT Delhi",
+      "retrieved_at": "2026-10-05T10:06:21.412731+00:00",
+      "evidence_text": "Indian Institute of Technology Delhi is one of the Twenty Three IITs created to be Centres of Excellence for training, research and …",
+      "document_date": null,
+      "authority_level": "PRIMARY",
+      "page": null
+    },
+    {
+      "source_id": "data_gov_in_147",
+      "source_url": "https://en.wikipedia.org/wiki/Indian_Institutes_of_Technology",
+      "source_name": "Open Government Data Portal India (data.gov.in)",
+      "source_type": "government_portal",
+      "publisher": "Ministry of Electronics & IT",
+      "title": "Indian Institutes of Technology - Wikipedia",
+      "retrieved_at": "2026-10-05T10:06:21.412891+00:00",
+      "evidence_text": "Certain IITs, such as IIT Kanpur, IIT Kharagpur, IIT Hyderabad and IIT Gandhinagar, offer students the option to …",
+      "document_date": null,
+      "authority_level": "PRIMARY",
+      "page": null
+    },
+    {
+      "source_id": "data_gov_in_3721",
+      "source_url": "http://www.iitm.ac.in/",
+      "source_name": "Open Government Data Portal India (data.gov.in)",
+      "source_type": "government_portal",
+      "publisher": "Ministry of Electronics & IT",
+      "title": "Indian Institute of Technology Madras",
+      "retrieved_at": "2026-10-05T10:06:21.412990+00:00",
+      "evidence_text": "Apr 11, 2025 · IIT Madras is at the forefront of collaborative learning and research having Joint Ph.D. programs with 20 …",
+      "document_date": null,
+      "authority_level": "PRIMARY",
+      "page": null
+    }
+  ],
+  "field_verifications": {
+    "project_name": "NOT_FOUND",
+    "project_id": "NOT_FOUND",
+    "government_project_id": "NOT_FOUND",
+    "tender_id": "NOT_FOUND",
+    "reference_number": "NOT_FOUND",
+    "tender_reference": "NOT_FOUND",
+    "tender_publication_date": "NOT_FOUND",
+    "publication_date": "NOT_FOUND",
+    "tender_closing_date": "NOT_FOUND",
+    "submission_deadline": "NOT_FOUND",
+    "award_date": "NOT_FOUND",
+    "awarded_date": "NOT_FOUND",
+    "government_order_number": "NOT_FOUND",
+    "government_order_date": "NOT_FOUND",
+    "authority": "NOT_FOUND",
+    "department": "NOT_FOUND",
+    "contractor": "NOT_FOUND",
+    "contractor_registration": "NOT_FOUND",
+    "estimated_cost": "VERIFIED",
+    "tender_value": "NOT_FOUND",
+    "awarded_cost": "NOT_FOUND",
+    "project_length": "NOT_FOUND",
+    "road_length_km": "NOT_FOUND",
+    "lanes": "NOT_FOUND",
+    "number_of_lanes": "NOT_FOUND",
+    "location": "NOT_FOUND",
+    "district": "VERIFIED",
+    "mandal": "NOT_FOUND",
+    "constituency": "NOT_FOUND",
+    "start_point": "NOT_FOUND",
+    "end_point": "NOT_FOUND",
+    "start_chainage": "NOT_FOUND",
+    "end_chainage": "NOT_FOUND",
+    "latitude": "NOT_FOUND",
+    "longitude": "NOT_FOUND",
+    "status": "NOT_FOUND",
+    "completion_date": "NOT_FOUND",
+    "contract_start_date": "NOT_FOUND",
+    "contract_end_date": "NOT_FOUND",
+    "work_order_number": "NOT_FOUND",
+    "funding_agency": "NOT_FOUND",
+    "road_number": "NOT_FOUND",
+    "dpr_reference": "NOT_FOUND",
+    "physical_progress": "NOT_FOUND",
+    "financial_progress": "NOT_FOUND",
+    "delay_reason": "NOT_FOUND",
+    "execution_mode": "NOT_FOUND",
+    "road_structure": "NOT_FOUND",
+    "foundation": "NOT_FOUND",
+    "viaduct_length": "NOT_FOUND"
+  },
+  "research_metadata": {
+    "searched_at": "2026-10-05T10:10:10.310311+00:00",
+    "research_duration": 296.4226,
+    "sources_checked": 5,
+    "sources_successfully_accessed": 6,
+    "sources_selected": 5,
+    "sources_attempted": 5,
+    "sources_accessed": 6,
+    "sources_failed": 1,
+    "sources_not_accessible": 0,
+    "source_results_found": 6,
+    "source_results_used": 6,
+    "fields_requested": 50,
+    "fields_found": 2,
+    "fields_verified": 2,
+    "fields_unverified": 0,
+    "fields_not_found": 48,
+    "conflicts_found": 0,
+    "research_status": "COMPLETED"
+  },
+  "research_run_id": 13,
+  "evidence": [
+    {
+      "field_name": "project_name",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:10:10.341194"
+    },
+    {
+      "field_name": "project_id",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:10:10.341221"
+    },
+    {
+      "field_name": "government_project_id",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:10:10.341225"
+    },
+    {
+      "field_name": "tender_id",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:10:10.341228"
+    },
+    {
+      "field_name": "reference_number",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:10:10.341230"
+    },
+    {
+      "field_name": "tender_reference",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:10:10.341233"
+    },
+    {
+      "field_name": "tender_publication_date",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:10:10.341235"
+    },
+    {
+      "field_name": "publication_date",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:10:10.341238"
+    },
+    {
+      "field_name": "tender_closing_date",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:10:10.341240"
+    },
+    {
+      "field_name": "submission_deadline",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:10:10.341243"
+    },
+    {
+      "field_name": "award_date",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:10:10.341245"
+    },
+    {
+      "field_name": "awarded_date",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:10:10.341247"
+    },
+    {
+      "field_name": "government_order_number",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:10:10.341250"
+    },
+    {
+      "field_name": "government_order_date",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:10:10.341252"
+    },
+    {
+      "field_name": "authority",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:10:10.341255"
+    },
+    {
+      "field_name": "department",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:10:10.341257"
+    },
+    {
+      "field_name": "contractor",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:10:10.341259"
+    },
+    {
+      "field_name": "contractor_registration",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:10:10.341261"
+    },
+    {
+      "field_name": "estimated_cost",
+      "extracted_value": "2105.0",
+      "verification_status": "VERIFIED",
+      "confidence": 0.85,
+      "evidence_snippet": "rs\n2,105\n",
+      "source_url": "http://www.iitm.ac.in/",
+      "retrieved_at": "2026-10-05T10:10:10.341264"
+    },
+    {
+      "field_name": "tender_value",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:10:10.341266"
+    },
+    {
+      "field_name": "awarded_cost",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:10:10.341268"
+    },
+    {
+      "field_name": "project_length",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:10:10.341270"
+    },
+    {
+      "field_name": "road_length_km",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:10:10.341273"
+    },
+    {
+      "field_name": "lanes",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:10:10.341275"
+    },
+    {
+      "field_name": "number_of_lanes",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:10:10.341277"
+    },
+    {
+      "field_name": "location",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:10:10.341279"
+    },
+    {
+      "field_name": "district",
+      "extracted_value": "Hyderabad",
+      "verification_status": "VERIFIED",
+      "confidence": 0.85,
+      "evidence_snippet": "District 'Hyderabad' identified in evidence text",
+      "source_url": "https://en.wikipedia.org/wiki/Indian_Institutes_of_Technology",
+      "retrieved_at": "2026-10-05T10:10:10.341282"
+    },
+    {
+      "field_name": "mandal",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:10:10.341284"
+    },
+    {
+      "field_name": "constituency",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:10:10.341286"
+    },
+    {
+      "field_name": "start_point",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:10:10.341289"
+    },
+    {
+      "field_name": "end_point",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:10:10.341291"
+    },
+    {
+      "field_name": "start_chainage",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:10:10.341293"
+    },
+    {
+      "field_name": "end_chainage",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:10:10.341296"
+    },
+    {
+      "field_name": "latitude",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:10:10.341298"
+    },
+    {
+      "field_name": "longitude",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:10:10.341300"
+    },
+    {
+      "field_name": "status",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:10:10.341302"
+    },
+    {
+      "field_name": "completion_date",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:10:10.341305"
+    },
+    {
+      "field_name": "contract_start_date",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:10:10.341307"
+    },
+    {
+      "field_name": "contract_end_date",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:10:10.341310"
+    },
+    {
+      "field_name": "work_order_number",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:10:10.341312"
+    },
+    {
+      "field_name": "funding_agency",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:10:10.341314"
+    },
+    {
+      "field_name": "road_number",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:10:10.341317"
+    },
+    {
+      "field_name": "dpr_reference",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:10:10.341319"
+    },
+    {
+      "field_name": "physical_progress",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:10:10.341321"
+    },
+    {
+      "field_name": "financial_progress",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:10:10.341324"
+    },
+    {
+      "field_name": "delay_reason",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:10:10.341326"
+    },
+    {
+      "field_name": "execution_mode",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:10:10.341328"
+    },
+    {
+      "field_name": "road_structure",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:10:10.341331"
+    },
+    {
+      "field_name": "foundation",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:10:10.341333"
+    },
+    {
+      "field_name": "viaduct_length",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:10:10.341335"
+    }
+  ],
+  "candidate_values": [
+    {
+      "value": 2105.0,
+      "source": {
+        "source_id": "data_gov_in_3721",
+        "source_url": "http://www.iitm.ac.in/",
+        "source_name": "Open Government Data Portal India (data.gov.in)",
+        "source_type": "government_portal",
+        "publisher": "Ministry of Electronics & IT",
+        "title": "Indian Institute of Technology Madras",
+        "retrieved_at": "2026-10-05T10:06:21.412990+00:00",
+        "evidence_text": "Apr 11, 2025 · IIT Madras is at the forefront of collaborative learning and research having Joint Ph.D. programs with 20 …",
+        "document_date": null,
+        "authority_level": "PRIMARY",
+        "page": null
+      },
+      "confidence": 0.8,
+      "evidence_snippet": "rs\n2,105\n",
+      "field_name": "estimated_cost"
+    },
+    {
+      "value": "Hyderabad",
+      "source": {
+        "source_id": "data_gov_in_147",
+        "source_url": "https://en.wikipedia.org/wiki/Indian_Institutes_of_Technology",
+        "source_name": "Open Government Data Portal India (data.gov.in)",
+        "source_type": "government_portal",
+        "publisher": "Ministry of Electronics & IT",
+        "title": "Indian Institutes of Technology - Wikipedia",
+        "retrieved_at": "2026-10-05T10:06:21.412891+00:00",
+        "evidence_text": "Certain IITs, such as IIT Kanpur, IIT Kharagpur, IIT Hyderabad and IIT Gandhinagar, offer students the option to …",
+        "document_date": null,
+        "authority_level": "PRIMARY",
+        "page": null
+      },
+      "confidence": 0.8,
+      "evidence_snippet": "District 'Hyderabad' identified in evidence text",
+      "field_name": "district"
+    }
+  ],
+  "verification": {
+    "project_name": "NOT_FOUND",
+    "project_id": "NOT_FOUND",
+    "government_project_id": "NOT_FOUND",
+    "tender_id": "NOT_FOUND",
+    "reference_number": "NOT_FOUND",
+    "tender_reference": "NOT_FOUND",
+    "tender_publication_date": "NOT_FOUND",
+    "publication_date": "NOT_FOUND",
+    "tender_closing_date": "NOT_FOUND",
+    "submission_deadline": "NOT_FOUND",
+    "award_date": "NOT_FOUND",
+    "awarded_date": "NOT_FOUND",
+    "government_order_number": "NOT_FOUND",
+    "government_order_date": "NOT_FOUND",
+    "authority": "NOT_FOUND",
+    "department": "NOT_FOUND",
+    "contractor": "NOT_FOUND",
+    "contractor_registration": "NOT_FOUND",
+    "estimated_cost": "VERIFIED",
+    "tender_value": "NOT_FOUND",
+    "awarded_cost": "NOT_FOUND",
+    "project_length": "NOT_FOUND",
+    "road_length_km": "NOT_FOUND",
+    "lanes": "NOT_FOUND",
+    "number_of_lanes": "NOT_FOUND",
+    "location": "NOT_FOUND",
+    "district": "VERIFIED",
+    "mandal": "NOT_FOUND",
+    "constituency": "NOT_FOUND",
+    "start_point": "NOT_FOUND",
+    "end_point": "NOT_FOUND",
+    "start_chainage": "NOT_FOUND",
+    "end_chainage": "NOT_FOUND",
+    "latitude": "NOT_FOUND",
+    "longitude": "NOT_FOUND",
+    "status": "NOT_FOUND",
+    "completion_date": "NOT_FOUND",
+    "contract_start_date": "NOT_FOUND",
+    "contract_end_date": "NOT_FOUND",
+    "work_order_number": "NOT_FOUND",
+    "funding_agency": "NOT_FOUND",
+    "road_number": "NOT_FOUND",
+    "dpr_reference": "NOT_FOUND",
+    "physical_progress": "NOT_FOUND",
+    "financial_progress": "NOT_FOUND",
+    "delay_reason": "NOT_FOUND",
+    "execution_mode": "NOT_FOUND",
+    "road_structure": "NOT_FOUND",
+    "foundation": "NOT_FOUND",
+    "viaduct_length": "NOT_FOUND"
+  },
+  "conflicts": [],
+  "quality_report": {
+    "report_id": 13,
+    "research_run_id": 13,
+    "project_name": "IIT Hyderabad campus infrastructure",
+    "overall_quality_score": 1.0,
+    "quality_class": "EXCELLENT",
+    "fields_checked": 22,
+    "fields_valid": 2,
+    "fields_suspicious": 0,
+    "fields_invalid": 0,
+    "fields_missing": 21,
+    "fields_unsupported": 0,
+    "cross_source_conflicts": 0,
+    "stale_fields_count": 0,
+    "duplicate_candidates_count": 0,
+    "quarantined": false,
+    "is_quarantined": false,
+    "merge_eligible": true,
+    "created_at": "2026-10-05T10:10:29.000155",
+    "issues": []
+  }
+}

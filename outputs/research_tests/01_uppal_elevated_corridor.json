@@ -1,0 +1,1307 @@
+{
+  "test_metadata": {
+    "test_case_number": 1,
+    "query_project_name": "Uppal Elevated Corridor",
+    "executed_at": "2026-10-04T22:45:36.413393+00:00",
+    "execution_duration_seconds": 40.09,
+    "test_status": "PASSED",
+    "anti_hallucination_passed": true,
+    "hallucination_validation_errors": []
+  },
+  "api_research_result": {
+    "project_id": "5",
+    "project_name_query": "Uppal Elevated Corridor",
+    "project": {
+      "project_name": {
+        "value": null,
+        "verification_status": "NOT_FOUND",
+        "confidence": 0.0,
+        "sources": [],
+        "candidate_values": [],
+        "evidence_text": null,
+        "retrieved_at": "2026-10-04T22:45:31.147875+00:00"
+      },
+      "project_id": {
+        "value": null,
+        "verification_status": "NOT_FOUND",
+        "confidence": 0.0,
+        "sources": [],
+        "candidate_values": [],
+        "evidence_text": null,
+        "retrieved_at": "2026-10-04T22:45:31.148043+00:00"
+      },
+      "government_project_id": {
+        "value": null,
+        "verification_status": "NOT_FOUND",
+        "confidence": 0.0,
+        "sources": [],
+        "candidate_values": [],
+        "evidence_text": null,
+        "retrieved_at": "2026-10-04T22:45:31.148139+00:00"
+      },
+      "tender_id": {
+        "value": null,
+        "verification_status": "NOT_FOUND",
+        "confidence": 0.0,
+        "sources": [],
+        "candidate_values": [],
+        "evidence_text": null,
+        "retrieved_at": "2026-10-04T22:45:31.148240+00:00"
+      },
+      "reference_number": {
+        "value": null,
+        "verification_status": "NOT_FOUND",
+        "confidence": 0.0,
+        "sources": [],
+        "candidate_values": [],
+        "evidence_text": null,
+        "retrieved_at": "2026-10-04T22:45:31.148313+00:00"
+      },
+      "tender_reference": {
+        "value": null,
+        "verification_status": "NOT_FOUND",
+        "confidence": 0.0,
+        "sources": [],
+        "candidate_values": [],
+        "evidence_text": null,
+        "retrieved_at": "2026-10-04T22:45:31.148379+00:00"
+      },
+      "tender_publication_date": {
+        "value": null,
+        "verification_status": "NOT_FOUND",
+        "confidence": 0.0,
+        "sources": [],
+        "candidate_values": [],
+        "evidence_text": null,
+        "retrieved_at": "2026-10-04T22:45:31.148439+00:00"
+      },
+      "publication_date": {
+        "value": null,
+        "verification_status": "NOT_FOUND",
+        "confidence": 0.0,
+        "sources": [],
+        "candidate_values": [],
+        "evidence_text": null,
+        "retrieved_at": "2026-10-04T22:45:31.148499+00:00"
+      },
+      "tender_closing_date": {
+        "value": null,
+        "verification_status": "NOT_FOUND",
+        "confidence": 0.0,
+        "sources": [],
+        "candidate_values": [],
+        "evidence_text": null,
+        "retrieved_at": "2026-10-04T22:45:31.148556+00:00"
+      },
+      "submission_deadline": {
+        "value": null,
+        "verification_status": "NOT_FOUND",
+        "confidence": 0.0,
+        "sources": [],
+        "candidate_values": [],
+        "evidence_text": null,
+        "retrieved_at": "2026-10-04T22:45:31.148613+00:00"
+      },
+      "award_date": {
+        "value": null,
+        "verification_status": "NOT_FOUND",
+        "confidence": 0.0,
+        "sources": [],
+        "candidate_values": [],
+        "evidence_text": null,
+        "retrieved_at": "2026-10-04T22:45:31.148668+00:00"
+      },
+      "awarded_date": {
+        "value": null,
+        "verification_status": "NOT_FOUND",
+        "confidence": 0.0,
+        "sources": [],
+        "candidate_values": [],
+        "evidence_text": null,
+        "retrieved_at": "2026-10-04T22:45:31.148726+00:00"
+      },
+      "government_order_number": {
+        "value": null,
+        "verification_status": "NOT_FOUND",
+        "confidence": 0.0,
+        "sources": [],
+        "candidate_values": [],
+        "evidence_text": null,
+        "retrieved_at": "2026-10-04T22:45:31.148783+00:00"
+      },
+      "government_order_date": {
+        "value": null,
+        "verification_status": "NOT_FOUND",
+        "confidence": 0.0,
+        "sources": [],
+        "candidate_values": [],
+        "evidence_text": null,
+        "retrieved_at": "2026-10-04T22:45:31.148838+00:00"
+      },
+      "authority": {
+        "value": null,
+        "verification_status": "NOT_FOUND",
+        "confidence": 0.0,
+        "sources": [],
+        "candidate_values": [],
+        "evidence_text": null,
+        "retrieved_at": "2026-10-04T22:45:31.148893+00:00"
+      },
+      "department": {
+        "value": null,
+        "verification_status": "NOT_FOUND",
+        "confidence": 0.0,
+        "sources": [],
+        "candidate_values": [],
+        "evidence_text": null,
+        "retrieved_at": "2026-10-04T22:45:31.148950+00:00"
+      },
+      "contractor": {
+        "value": null,
+        "verification_status": "NOT_FOUND",
+        "confidence": 0.0,
+        "sources": [],
+        "candidate_values": [],
+        "evidence_text": null,
+        "retrieved_at": "2026-10-04T22:45:31.149005+00:00"
+      },
+      "contractor_registration": {
+        "value": null,
+        "verification_status": "NOT_FOUND",
+        "confidence": 0.0,
+        "sources": [],
+        "candidate_values": [],
+        "evidence_text": null,
+        "retrieved_at": "2026-10-04T22:45:31.149064+00:00"
+      },
+      "estimated_cost": {
+        "value": null,
+        "verification_status": "NOT_FOUND",
+        "confidence": 0.0,
+        "sources": [],
+        "candidate_values": [],
+        "evidence_text": null,
+        "retrieved_at": "2026-10-04T22:45:31.149121+00:00"
+      },
+      "tender_value": {
+        "value": null,
+        "verification_status": "NOT_FOUND",
+        "confidence": 0.0,
+        "sources": [],
+        "candidate_values": [],
+        "evidence_text": null,
+        "retrieved_at": "2026-10-04T22:45:31.149180+00:00"
+      },
+      "awarded_cost": {
+        "value": null,
+        "verification_status": "NOT_FOUND",
+        "confidence": 0.0,
+        "sources": [],
+        "candidate_values": [],
+        "evidence_text": null,
+        "retrieved_at": "2026-10-04T22:45:31.149259+00:00"
+      },
+      "project_length": {
+        "value": null,
+        "verification_status": "NOT_FOUND",
+        "confidence": 0.0,
+        "sources": [],
+        "candidate_values": [],
+        "evidence_text": null,
+        "retrieved_at": "2026-10-04T22:45:31.149316+00:00"
+      },
+      "road_length_km": {
+        "value": null,
+        "verification_status": "NOT_FOUND",
+        "confidence": 0.0,
+        "sources": [],
+        "candidate_values": [],
+        "evidence_text": null,
+        "retrieved_at": "2026-10-04T22:45:31.149376+00:00"
+      },
+      "lanes": {
+        "value": null,
+        "verification_status": "NOT_FOUND",
+        "confidence": 0.0,
+        "sources": [],
+        "candidate_values": [],
+        "evidence_text": null,
+        "retrieved_at": "2026-10-04T22:45:31.149433+00:00"
+      },
+      "location": {
+        "value": null,
+        "verification_status": "NOT_FOUND",
+        "confidence": 0.0,
+        "sources": [],
+        "candidate_values": [],
+        "evidence_text": null,
+        "retrieved_at": "2026-10-04T22:45:31.149489+00:00"
+      },
+      "district": {
+        "value": null,
+        "verification_status": "NOT_FOUND",
+        "confidence": 0.0,
+        "sources": [],
+        "candidate_values": [],
+        "evidence_text": null,
+        "retrieved_at": "2026-10-04T22:45:31.149543+00:00"
+      },
+      "constituency": {
+        "value": null,
+        "verification_status": "NOT_FOUND",
+        "confidence": 0.0,
+        "sources": [],
+        "candidate_values": [],
+        "evidence_text": null,
+        "retrieved_at": "2026-10-04T22:45:31.149601+00:00"
+      },
+      "start_point": {
+        "value": null,
+        "verification_status": "NOT_FOUND",
+        "confidence": 0.0,
+        "sources": [],
+        "candidate_values": [],
+        "evidence_text": null,
+        "retrieved_at": "2026-10-04T22:45:31.149659+00:00"
+      },
+      "end_point": {
+        "value": null,
+        "verification_status": "NOT_FOUND",
+        "confidence": 0.0,
+        "sources": [],
+        "candidate_values": [],
+        "evidence_text": null,
+        "retrieved_at": "2026-10-04T22:45:31.149713+00:00"
+      },
+      "latitude": {
+        "value": null,
+        "verification_status": "NOT_FOUND",
+        "confidence": 0.0,
+        "sources": [],
+        "candidate_values": [],
+        "evidence_text": null,
+        "retrieved_at": "2026-10-04T22:45:31.149767+00:00"
+      },
+      "longitude": {
+        "value": null,
+        "verification_status": "NOT_FOUND",
+        "confidence": 0.0,
+        "sources": [],
+        "candidate_values": [],
+        "evidence_text": null,
+        "retrieved_at": "2026-10-04T22:45:31.149822+00:00"
+      },
+      "status": {
+        "value": null,
+        "verification_status": "NOT_FOUND",
+        "confidence": 0.0,
+        "sources": [],
+        "candidate_values": [],
+        "evidence_text": null,
+        "retrieved_at": "2026-10-04T22:45:31.149877+00:00"
+      },
+      "completion_date": {
+        "value": null,
+        "verification_status": "NOT_FOUND",
+        "confidence": 0.0,
+        "sources": [],
+        "candidate_values": [],
+        "evidence_text": null,
+        "retrieved_at": "2026-10-04T22:45:31.149930+00:00"
+      },
+      "contract_start_date": {
+        "value": null,
+        "verification_status": "NOT_FOUND",
+        "confidence": 0.0,
+        "sources": [],
+        "candidate_values": [],
+        "evidence_text": null,
+        "retrieved_at": "2026-10-04T22:45:31.149988+00:00"
+      },
+      "contract_end_date": {
+        "value": null,
+        "verification_status": "NOT_FOUND",
+        "confidence": 0.0,
+        "sources": [],
+        "candidate_values": [],
+        "evidence_text": null,
+        "retrieved_at": "2026-10-04T22:45:31.150044+00:00"
+      },
+      "work_order_number": {
+        "value": null,
+        "verification_status": "NOT_FOUND",
+        "confidence": 0.0,
+        "sources": [],
+        "candidate_values": [],
+        "evidence_text": null,
+        "retrieved_at": "2026-10-04T22:45:31.150101+00:00"
+      },
+      "funding_agency": {
+        "value": null,
+        "verification_status": "NOT_FOUND",
+        "confidence": 0.0,
+        "sources": [],
+        "candidate_values": [],
+        "evidence_text": null,
+        "retrieved_at": "2026-10-04T22:45:31.150156+00:00"
+      },
+      "road_number": {
+        "value": null,
+        "verification_status": "NOT_FOUND",
+        "confidence": 0.0,
+        "sources": [],
+        "candidate_values": [],
+        "evidence_text": null,
+        "retrieved_at": "2026-10-04T22:45:31.150235+00:00"
+      },
+      "dpr_reference": {
+        "value": null,
+        "verification_status": "NOT_FOUND",
+        "confidence": 0.0,
+        "sources": [],
+        "candidate_values": [],
+        "evidence_text": null,
+        "retrieved_at": "2026-10-04T22:45:31.150349+00:00"
+      }
+    },
+    "sources": [
+      {
+        "source_id": "TOD_TOD_001",
+        "source_url": "https://data.telangana.gov.in/dataset/TOD_001",
+        "source_name": "Telangana Open Data Portal",
+        "source_type": "government_portal",
+        "publisher": "Telangana Roads & Buildings Department",
+        "title": "Telangana Open Data Record for Uppal Elevated Corridor",
+        "retrieved_at": "2026-10-04T22:45:07.747245+00:00",
+        "evidence_text": "Dataset: Telangana Open Data Record for Uppal Elevated Corridor, Dept: Telangana Roads & Buildings Department, Description: Official infrastructure dataset for Uppal Elevated Corridor",
+        "document_date": null,
+        "authority_level": "PRIMARY"
+      },
+      {
+        "source_id": "src_001",
+        "source_url": "https://www.telangana.gov.in/tenders/",
+        "source_name": "Tenders - Telangana State Portal",
+        "source_type": "tender_portal",
+        "publisher": "www.telangana.gov.in",
+        "title": "Tenders - Telangana State Portal",
+        "retrieved_at": "2026-10-04T22:45:15.161860+00:00",
+        "evidence_text": "Explore Tenders on Telangana State Portal – official info and services for citizens by Telangana government.",
+        "document_date": null,
+        "authority_level": "PRIMARY"
+      },
+      {
+        "source_id": "src_002",
+        "source_url": "https://roadbuild.telangana.gov.in/",
+        "source_name": "Telangana - TSROADS",
+        "source_type": "government_order",
+        "publisher": "roadbuild.telangana.gov.in",
+        "title": "Telangana - TSROADS",
+        "retrieved_at": "2026-10-04T22:45:15.162033+00:00",
+        "evidence_text": "WELCOME Roads are the life-line of nation providing transportation facility over the length and breadth of country. …",
+        "document_date": null,
+        "authority_level": "PRIMARY"
+      }
+    ],
+    "field_verifications": {
+      "project_name": "NOT_FOUND",
+      "project_id": "NOT_FOUND",
+      "government_project_id": "NOT_FOUND",
+      "tender_id": "NOT_FOUND",
+      "reference_number": "NOT_FOUND",
+      "tender_reference": "NOT_FOUND",
+      "tender_publication_date": "NOT_FOUND",
+      "publication_date": "NOT_FOUND",
+      "tender_closing_date": "NOT_FOUND",
+      "submission_deadline": "NOT_FOUND",
+      "award_date": "NOT_FOUND",
+      "awarded_date": "NOT_FOUND",
+      "government_order_number": "NOT_FOUND",
+      "government_order_date": "NOT_FOUND",
+      "authority": "NOT_FOUND",
+      "department": "NOT_FOUND",
+      "contractor": "NOT_FOUND",
+      "contractor_registration": "NOT_FOUND",
+      "estimated_cost": "NOT_FOUND",
+      "tender_value": "NOT_FOUND",
+      "awarded_cost": "NOT_FOUND",
+      "project_length": "NOT_FOUND",
+      "road_length_km": "NOT_FOUND",
+      "lanes": "NOT_FOUND",
+      "location": "NOT_FOUND",
+      "district": "NOT_FOUND",
+      "constituency": "NOT_FOUND",
+      "start_point": "NOT_FOUND",
+      "end_point": "NOT_FOUND",
+      "latitude": "NOT_FOUND",
+      "longitude": "NOT_FOUND",
+      "status": "NOT_FOUND",
+      "completion_date": "NOT_FOUND",
+      "contract_start_date": "NOT_FOUND",
+      "contract_end_date": "NOT_FOUND",
+      "work_order_number": "NOT_FOUND",
+      "funding_agency": "NOT_FOUND",
+      "road_number": "NOT_FOUND",
+      "dpr_reference": "NOT_FOUND"
+    },
+    "research_metadata": {
+      "searched_at": "2026-10-04T22:45:31.150469+00:00",
+      "research_duration": 37.2669,
+      "sources_checked": 5,
+      "sources_successfully_accessed": 3,
+      "sources_selected": 5,
+      "sources_attempted": 5,
+      "sources_accessed": 3,
+      "sources_failed": 3,
+      "sources_not_accessible": 0,
+      "source_results_found": 3,
+      "source_results_used": 3,
+      "fields_requested": 39,
+      "fields_found": 0,
+      "fields_verified": 0,
+      "fields_unverified": 0,
+      "fields_not_found": 39,
+      "conflicts_found": 0,
+      "research_status": "COMPLETED"
+    }
+  },
+  "field_evidences": [
+    {
+      "field_name": "project_name",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-04T22:45:31.193135"
+    },
+    {
+      "field_name": "project_id",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-04T22:45:31.193154"
+    },
+    {
+      "field_name": "government_project_id",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-04T22:45:31.193161"
+    },
+    {
+      "field_name": "tender_id",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-04T22:45:31.193165"
+    },
+    {
+      "field_name": "reference_number",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-04T22:45:31.193170"
+    },
+    {
+      "field_name": "tender_reference",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-04T22:45:31.193174"
+    },
+    {
+      "field_name": "tender_publication_date",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-04T22:45:31.193178"
+    },
+    {
+      "field_name": "publication_date",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-04T22:45:31.193182"
+    },
+    {
+      "field_name": "tender_closing_date",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-04T22:45:31.193187"
+    },
+    {
+      "field_name": "submission_deadline",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-04T22:45:31.193192"
+    },
+    {
+      "field_name": "award_date",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-04T22:45:31.193196"
+    },
+    {
+      "field_name": "awarded_date",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-04T22:45:31.193230"
+    },
+    {
+      "field_name": "government_order_number",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-04T22:45:31.193234"
+    },
+    {
+      "field_name": "government_order_date",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-04T22:45:31.193238"
+    },
+    {
+      "field_name": "authority",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-04T22:45:31.193242"
+    },
+    {
+      "field_name": "department",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-04T22:45:31.193246"
+    },
+    {
+      "field_name": "contractor",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-04T22:45:31.193250"
+    },
+    {
+      "field_name": "contractor_registration",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-04T22:45:31.193255"
+    },
+    {
+      "field_name": "estimated_cost",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-04T22:45:31.193259"
+    },
+    {
+      "field_name": "tender_value",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-04T22:45:31.193264"
+    },
+    {
+      "field_name": "awarded_cost",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-04T22:45:31.193269"
+    },
+    {
+      "field_name": "project_length",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-04T22:45:31.193274"
+    },
+    {
+      "field_name": "road_length_km",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-04T22:45:31.193279"
+    },
+    {
+      "field_name": "lanes",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-04T22:45:31.193284"
+    },
+    {
+      "field_name": "location",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-04T22:45:31.193289"
+    },
+    {
+      "field_name": "district",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-04T22:45:31.193294"
+    },
+    {
+      "field_name": "constituency",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-04T22:45:31.193299"
+    },
+    {
+      "field_name": "start_point",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-04T22:45:31.193304"
+    },
+    {
+      "field_name": "end_point",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-04T22:45:31.193308"
+    },
+    {
+      "field_name": "latitude",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-04T22:45:31.193313"
+    },
+    {
+      "field_name": "longitude",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-04T22:45:31.193317"
+    },
+    {
+      "field_name": "status",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-04T22:45:31.193322"
+    },
+    {
+      "field_name": "completion_date",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-04T22:45:31.193327"
+    },
+    {
+      "field_name": "contract_start_date",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-04T22:45:31.193331"
+    },
+    {
+      "field_name": "contract_end_date",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-04T22:45:31.193337"
+    },
+    {
+      "field_name": "work_order_number",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-04T22:45:31.193342"
+    },
+    {
+      "field_name": "funding_agency",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-04T22:45:31.193347"
+    },
+    {
+      "field_name": "road_number",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-04T22:45:31.193351"
+    },
+    {
+      "field_name": "dpr_reference",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-04T22:45:31.193355"
+    }
+  ],
+  "sources_retrieved": [
+    {
+      "source_name": "Telangana Open Data Portal",
+      "source_url": "https://data.telangana.gov.in/dataset/TOD_001",
+      "source_type": "government_portal",
+      "authority_level": "PRIMARY",
+      "retrieved_at": "2026-10-04T22:45:31.169766"
+    },
+    {
+      "source_name": "Tenders - Telangana State Portal",
+      "source_url": "https://www.telangana.gov.in/tenders/",
+      "source_type": "tender_portal",
+      "authority_level": "PRIMARY",
+      "retrieved_at": "2026-10-04T22:45:31.173277"
+    },
+    {
+      "source_name": "Telangana - TSROADS",
+      "source_url": "https://roadbuild.telangana.gov.in/",
+      "source_type": "government_order",
+      "authority_level": "PRIMARY",
+      "retrieved_at": "2026-10-04T22:45:31.174908"
+    }
+  ],
+  "data_quality_report": {
+    "id": 5,
+    "research_run_id": 5,
+    "project_name": "Uppal Elevated Corridor",
+    "overall_quality_score": 0.5,
+    "quality_class": "POOR",
+    "fields_checked": 22,
+    "fields_valid": 0,
+    "fields_suspicious": 0,
+    "fields_invalid": 0,
+    "fields_missing": 23,
+    "fields_unsupported": 0,
+    "cross_source_conflicts": 0,
+    "duplicate_candidates_count": 0,
+    "stale_fields_count": 0,
+    "merge_eligible": false,
+    "merge_blockers": [],
+    "is_quarantined": false,
+    "issues": [],
+    "evaluated_at": "2026-10-04T22:45:33.755138+00:00"
+  },
+  "entity_resolution": {
+    "review_id": 5,
+    "research_run_id": 5,
+    "project_name_query": "Uppal Elevated Corridor",
+    "match_status": "NEW_ENTITY",
+    "match_confidence": 0.0,
+    "matching_signals": [],
+    "negative_signals": [],
+    "candidate_entity_id": null,
+    "candidate_entity_name": null,
+    "candidate_entity_type": "PROJECT",
+    "field_comparisons": {
+      "project_name": {
+        "field_name": "project_name",
+        "research_value": null,
+        "canonical_value": null,
+        "comparison_result": "UNVERIFIED_MISSING",
+        "verification_status": "NOT_FOUND",
+        "confidence": 0.0,
+        "evidence_text": null,
+        "source_url": null,
+        "decision": "PENDING"
+      },
+      "project_id": {
+        "field_name": "project_id",
+        "research_value": null,
+        "canonical_value": null,
+        "comparison_result": "UNVERIFIED_MISSING",
+        "verification_status": "NOT_FOUND",
+        "confidence": 0.0,
+        "evidence_text": null,
+        "source_url": null,
+        "decision": "PENDING"
+      },
+      "government_project_id": {
+        "field_name": "government_project_id",
+        "research_value": null,
+        "canonical_value": null,
+        "comparison_result": "UNVERIFIED_MISSING",
+        "verification_status": "NOT_FOUND",
+        "confidence": 0.0,
+        "evidence_text": null,
+        "source_url": null,
+        "decision": "PENDING"
+      },
+      "tender_id": {
+        "field_name": "tender_id",
+        "research_value": null,
+        "canonical_value": null,
+        "comparison_result": "UNVERIFIED_MISSING",
+        "verification_status": "NOT_FOUND",
+        "confidence": 0.0,
+        "evidence_text": null,
+        "source_url": null,
+        "decision": "PENDING"
+      },
+      "reference_number": {
+        "field_name": "reference_number",
+        "research_value": null,
+        "canonical_value": null,
+        "comparison_result": "UNVERIFIED_MISSING",
+        "verification_status": "NOT_FOUND",
+        "confidence": 0.0,
+        "evidence_text": null,
+        "source_url": null,
+        "decision": "PENDING"
+      },
+      "tender_reference": {
+        "field_name": "tender_reference",
+        "research_value": null,
+        "canonical_value": null,
+        "comparison_result": "UNVERIFIED_MISSING",
+        "verification_status": "NOT_FOUND",
+        "confidence": 0.0,
+        "evidence_text": null,
+        "source_url": null,
+        "decision": "PENDING"
+      },
+      "tender_publication_date": {
+        "field_name": "tender_publication_date",
+        "research_value": null,
+        "canonical_value": null,
+        "comparison_result": "UNVERIFIED_MISSING",
+        "verification_status": "NOT_FOUND",
+        "confidence": 0.0,
+        "evidence_text": null,
+        "source_url": null,
+        "decision": "PENDING"
+      },
+      "publication_date": {
+        "field_name": "publication_date",
+        "research_value": null,
+        "canonical_value": null,
+        "comparison_result": "UNVERIFIED_MISSING",
+        "verification_status": "NOT_FOUND",
+        "confidence": 0.0,
+        "evidence_text": null,
+        "source_url": null,
+        "decision": "PENDING"
+      },
+      "tender_closing_date": {
+        "field_name": "tender_closing_date",
+        "research_value": null,
+        "canonical_value": null,
+        "comparison_result": "UNVERIFIED_MISSING",
+        "verification_status": "NOT_FOUND",
+        "confidence": 0.0,
+        "evidence_text": null,
+        "source_url": null,
+        "decision": "PENDING"
+      },
+      "submission_deadline": {
+        "field_name": "submission_deadline",
+        "research_value": null,
+        "canonical_value": null,
+        "comparison_result": "UNVERIFIED_MISSING",
+        "verification_status": "NOT_FOUND",
+        "confidence": 0.0,
+        "evidence_text": null,
+        "source_url": null,
+        "decision": "PENDING"
+      },
+      "award_date": {
+        "field_name": "award_date",
+        "research_value": null,
+        "canonical_value": null,
+        "comparison_result": "UNVERIFIED_MISSING",
+        "verification_status": "NOT_FOUND",
+        "confidence": 0.0,
+        "evidence_text": null,
+        "source_url": null,
+        "decision": "PENDING"
+      },
+      "awarded_date": {
+        "field_name": "awarded_date",
+        "research_value": null,
+        "canonical_value": null,
+        "comparison_result": "UNVERIFIED_MISSING",
+        "verification_status": "NOT_FOUND",
+        "confidence": 0.0,
+        "evidence_text": null,
+        "source_url": null,
+        "decision": "PENDING"
+      },
+      "government_order_number": {
+        "field_name": "government_order_number",
+        "research_value": null,
+        "canonical_value": null,
+        "comparison_result": "UNVERIFIED_MISSING",
+        "verification_status": "NOT_FOUND",
+        "confidence": 0.0,
+        "evidence_text": null,
+        "source_url": null,
+        "decision": "PENDING"
+      },
+      "government_order_date": {
+        "field_name": "government_order_date",
+        "research_value": null,
+        "canonical_value": null,
+        "comparison_result": "UNVERIFIED_MISSING",
+        "verification_status": "NOT_FOUND",
+        "confidence": 0.0,
+        "evidence_text": null,
+        "source_url": null,
+        "decision": "PENDING"
+      },
+      "authority": {
+        "field_name": "authority",
+        "research_value": null,
+        "canonical_value": null,
+        "comparison_result": "UNVERIFIED_MISSING",
+        "verification_status": "NOT_FOUND",
+        "confidence": 0.0,
+        "evidence_text": null,
+        "source_url": null,
+        "decision": "PENDING"
+      },
+      "department": {
+        "field_name": "department",
+        "research_value": null,
+        "canonical_value": null,
+        "comparison_result": "UNVERIFIED_MISSING",
+        "verification_status": "NOT_FOUND",
+        "confidence": 0.0,
+        "evidence_text": null,
+        "source_url": null,
+        "decision": "PENDING"
+      },
+      "contractor": {
+        "field_name": "contractor",
+        "research_value": null,
+        "canonical_value": null,
+        "comparison_result": "UNVERIFIED_MISSING",
+        "verification_status": "NOT_FOUND",
+        "confidence": 0.0,
+        "evidence_text": null,
+        "source_url": null,
+        "decision": "PENDING"
+      },
+      "contractor_registration": {
+        "field_name": "contractor_registration",
+        "research_value": null,
+        "canonical_value": null,
+        "comparison_result": "UNVERIFIED_MISSING",
+        "verification_status": "NOT_FOUND",
+        "confidence": 0.0,
+        "evidence_text": null,
+        "source_url": null,
+        "decision": "PENDING"
+      },
+      "estimated_cost": {
+        "field_name": "estimated_cost",
+        "research_value": null,
+        "canonical_value": null,
+        "comparison_result": "UNVERIFIED_MISSING",
+        "verification_status": "NOT_FOUND",
+        "confidence": 0.0,
+        "evidence_text": null,
+        "source_url": null,
+        "decision": "PENDING"
+      },
+      "tender_value": {
+        "field_name": "tender_value",
+        "research_value": null,
+        "canonical_value": null,
+        "comparison_result": "UNVERIFIED_MISSING",
+        "verification_status": "NOT_FOUND",
+        "confidence": 0.0,
+        "evidence_text": null,
+        "source_url": null,
+        "decision": "PENDING"
+      },
+      "awarded_cost": {
+        "field_name": "awarded_cost",
+        "research_value": null,
+        "canonical_value": null,
+        "comparison_result": "UNVERIFIED_MISSING",
+        "verification_status": "NOT_FOUND",
+        "confidence": 0.0,
+        "evidence_text": null,
+        "source_url": null,
+        "decision": "PENDING"
+      },
+      "project_length": {
+        "field_name": "project_length",
+        "research_value": null,
+        "canonical_value": null,
+        "comparison_result": "UNVERIFIED_MISSING",
+        "verification_status": "NOT_FOUND",
+        "confidence": 0.0,
+        "evidence_text": null,
+        "source_url": null,
+        "decision": "PENDING"
+      },
+      "road_length_km": {
+        "field_name": "road_length_km",
+        "research_value": null,
+        "canonical_value": null,
+        "comparison_result": "UNVERIFIED_MISSING",
+        "verification_status": "NOT_FOUND",
+        "confidence": 0.0,
+        "evidence_text": null,
+        "source_url": null,
+        "decision": "PENDING"
+      },
+      "lanes": {
+        "field_name": "lanes",
+        "research_value": null,
+        "canonical_value": null,
+        "comparison_result": "UNVERIFIED_MISSING",
+        "verification_status": "NOT_FOUND",
+        "confidence": 0.0,
+        "evidence_text": null,
+        "source_url": null,
+        "decision": "PENDING"
+      },
+      "location": {
+        "field_name": "location",
+        "research_value": null,
+        "canonical_value": null,
+        "comparison_result": "UNVERIFIED_MISSING",
+        "verification_status": "NOT_FOUND",
+        "confidence": 0.0,
+        "evidence_text": null,
+        "source_url": null,
+        "decision": "PENDING"
+      },
+      "district": {
+        "field_name": "district",
+        "research_value": null,
+        "canonical_value": null,
+        "comparison_result": "UNVERIFIED_MISSING",
+        "verification_status": "NOT_FOUND",
+        "confidence": 0.0,
+        "evidence_text": null,
+        "source_url": null,
+        "decision": "PENDING"
+      },
+      "constituency": {
+        "field_name": "constituency",
+        "research_value": null,
+        "canonical_value": null,
+        "comparison_result": "UNVERIFIED_MISSING",
+        "verification_status": "NOT_FOUND",
+        "confidence": 0.0,
+        "evidence_text": null,
+        "source_url": null,
+        "decision": "PENDING"
+      },
+      "start_point": {
+        "field_name": "start_point",
+        "research_value": null,
+        "canonical_value": null,
+        "comparison_result": "UNVERIFIED_MISSING",
+        "verification_status": "NOT_FOUND",
+        "confidence": 0.0,
+        "evidence_text": null,
+        "source_url": null,
+        "decision": "PENDING"
+      },
+      "end_point": {
+        "field_name": "end_point",
+        "research_value": null,
+        "canonical_value": null,
+        "comparison_result": "UNVERIFIED_MISSING",
+        "verification_status": "NOT_FOUND",
+        "confidence": 0.0,
+        "evidence_text": null,
+        "source_url": null,
+        "decision": "PENDING"
+      },
+      "latitude": {
+        "field_name": "latitude",
+        "research_value": null,
+        "canonical_value": null,
+        "comparison_result": "UNVERIFIED_MISSING",
+        "verification_status": "NOT_FOUND",
+        "confidence": 0.0,
+        "evidence_text": null,
+        "source_url": null,
+        "decision": "PENDING"
+      },
+      "longitude": {
+        "field_name": "longitude",
+        "research_value": null,
+        "canonical_value": null,
+        "comparison_result": "UNVERIFIED_MISSING",
+        "verification_status": "NOT_FOUND",
+        "confidence": 0.0,
+        "evidence_text": null,
+        "source_url": null,
+        "decision": "PENDING"
+      },
+      "status": {
+        "field_name": "status",
+        "research_value": null,
+        "canonical_value": null,
+        "comparison_result": "UNVERIFIED_MISSING",
+        "verification_status": "NOT_FOUND",
+        "confidence": 0.0,
+        "evidence_text": null,
+        "source_url": null,
+        "decision": "PENDING"
+      },
+      "completion_date": {
+        "field_name": "completion_date",
+        "research_value": null,
+        "canonical_value": null,
+        "comparison_result": "UNVERIFIED_MISSING",
+        "verification_status": "NOT_FOUND",
+        "confidence": 0.0,
+        "evidence_text": null,
+        "source_url": null,
+        "decision": "PENDING"
+      },
+      "contract_start_date": {
+        "field_name": "contract_start_date",
+        "research_value": null,
+        "canonical_value": null,
+        "comparison_result": "UNVERIFIED_MISSING",
+        "verification_status": "NOT_FOUND",
+        "confidence": 0.0,
+        "evidence_text": null,
+        "source_url": null,
+        "decision": "PENDING"
+      },
+      "contract_end_date": {
+        "field_name": "contract_end_date",
+        "research_value": null,
+        "canonical_value": null,
+        "comparison_result": "UNVERIFIED_MISSING",
+        "verification_status": "NOT_FOUND",
+        "confidence": 0.0,
+        "evidence_text": null,
+        "source_url": null,
+        "decision": "PENDING"
+      },
+      "work_order_number": {
+        "field_name": "work_order_number",
+        "research_value": null,
+        "canonical_value": null,
+        "comparison_result": "UNVERIFIED_MISSING",
+        "verification_status": "NOT_FOUND",
+        "confidence": 0.0,
+        "evidence_text": null,
+        "source_url": null,
+        "decision": "PENDING"
+      },
+      "funding_agency": {
+        "field_name": "funding_agency",
+        "research_value": null,
+        "canonical_value": null,
+        "comparison_result": "UNVERIFIED_MISSING",
+        "verification_status": "NOT_FOUND",
+        "confidence": 0.0,
+        "evidence_text": null,
+        "source_url": null,
+        "decision": "PENDING"
+      },
+      "road_number": {
+        "field_name": "road_number",
+        "research_value": null,
+        "canonical_value": null,
+        "comparison_result": "UNVERIFIED_MISSING",
+        "verification_status": "NOT_FOUND",
+        "confidence": 0.0,
+        "evidence_text": null,
+        "source_url": null,
+        "decision": "PENDING"
+      },
+      "dpr_reference": {
+        "field_name": "dpr_reference",
+        "research_value": null,
+        "canonical_value": null,
+        "comparison_result": "UNVERIFIED_MISSING",
+        "verification_status": "NOT_FOUND",
+        "confidence": 0.0,
+        "evidence_text": null,
+        "source_url": null,
+        "decision": "PENDING"
+      }
+    }
+  }
+}

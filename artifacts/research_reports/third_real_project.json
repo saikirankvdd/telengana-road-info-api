@@ -1,0 +1,1440 @@
+{
+  "project_id": null,
+  "project_name_query": "DEVELOPMENT OF NEW A SITE RO AT LOCATION FROM BAGEPALI JUNCTION TO PERESANDRA CROSS ON HYDERABAD BANGALORE ROAD (NH-7) LHS, CHIKKABALLAPUR/ MnC/SR/URV/LT/009/KASO/2026-27",
+  "project": {
+    "project_name": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:14:58.607823+00:00"
+    },
+    "project_id": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:14:58.607944+00:00"
+    },
+    "government_project_id": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:14:58.607995+00:00"
+    },
+    "tender_id": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:14:58.608033+00:00"
+    },
+    "reference_number": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:14:58.608070+00:00"
+    },
+    "tender_reference": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:14:58.608104+00:00"
+    },
+    "tender_publication_date": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:14:58.608138+00:00"
+    },
+    "publication_date": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:14:58.608171+00:00"
+    },
+    "tender_closing_date": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:14:58.608225+00:00"
+    },
+    "submission_deadline": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:14:58.608263+00:00"
+    },
+    "award_date": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:14:58.608298+00:00"
+    },
+    "awarded_date": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:14:58.608332+00:00"
+    },
+    "government_order_number": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:14:58.608365+00:00"
+    },
+    "government_order_date": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:14:58.608397+00:00"
+    },
+    "authority": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:14:58.608430+00:00"
+    },
+    "department": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:14:58.608463+00:00"
+    },
+    "contractor": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:14:58.608496+00:00"
+    },
+    "contractor_registration": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:14:58.608528+00:00"
+    },
+    "estimated_cost": {
+      "value": null,
+      "verification_status": "CONFLICTING",
+      "confidence": 0.3,
+      "sources": [
+        {
+          "source_id": "nhai_294",
+          "source_url": "https://www.wikihow.com/Get-Help-in-Windows-11",
+          "source_name": "National Highways Authority of India (NHAI)",
+          "source_type": "government_portal",
+          "publisher": "Ministry of Road Transport & Highways",
+          "title": "How to Get Help in Windows 11: 3 Quick & Easy Ways",
+          "retrieved_at": "2026-10-05T10:11:22.874561+00:00",
+          "evidence_text": "Mar 21, 2026 · The Get Help app will populate with articles from Microsoft Support and Microsoft's help community forum. Click on …",
+          "document_date": null,
+          "authority_level": "PRIMARY",
+          "page": null
+        },
+        {
+          "source_id": "data_gov_in_3431",
+          "source_url": "https://forum.lowyat.net/topic/5556445",
+          "source_name": "Open Government Data Portal India (data.gov.in)",
+          "source_type": "government_portal",
+          "publisher": "Ministry of Electronics & IT",
+          "title": "[found sos] cant login whatsapp browser - Lowyat.NET",
+          "retrieved_at": "2026-10-05T10:11:52.277346+00:00",
+          "evidence_text": "Feb 27, 2026 · Lowyat.NET -> Kopitiam -> Serious Kopitiam Bump Topic Add Reply RSS Feed Bottom Outline · [ Standard ] · Linear+ …",
+          "document_date": null,
+          "authority_level": "PRIMARY",
+          "page": null
+        },
+        {
+          "source_id": "data_gov_in_4832",
+          "source_url": "https://forum.lowyat.net/topic/5565190",
+          "source_name": "Open Government Data Portal India (data.gov.in)",
+          "source_type": "government_portal",
+          "publisher": "Ministry of Electronics & IT",
+          "title": "Whatsapp Desktop dah jadi fb app - Lowyat.NET",
+          "retrieved_at": "2026-10-05T10:11:52.277550+00:00",
+          "evidence_text": "May 20, 2026 · As usual in the morning I'll launch my whatsapp desktop app. Suddenly the app shows itself as below, unlike the normal …",
+          "document_date": null,
+          "authority_level": "PRIMARY",
+          "page": null
+        }
+      ],
+      "candidate_values": [
+        {
+          "value": 2.0,
+          "source": {
+            "source_id": "nhai_294",
+            "source_url": "https://www.wikihow.com/Get-Help-in-Windows-11",
+            "source_name": "National Highways Authority of India (NHAI)",
+            "source_type": "government_portal",
+            "publisher": "Ministry of Road Transport & Highways",
+            "title": "How to Get Help in Windows 11: 3 Quick & Easy Ways",
+            "retrieved_at": "2026-10-05T10:11:22.874561+00:00",
+            "evidence_text": "Mar 21, 2026 · The Get Help app will populate with articles from Microsoft Support and Microsoft's help community forum. Click on …",
+            "document_date": null,
+            "authority_level": "PRIMARY",
+            "page": null
+          },
+          "confidence": 0.8,
+          "evidence_snippet": "rs:\n2\n"
+        },
+        {
+          "value": 20753.0,
+          "source": {
+            "source_id": "data_gov_in_3431",
+            "source_url": "https://forum.lowyat.net/topic/5556445",
+            "source_name": "Open Government Data Portal India (data.gov.in)",
+            "source_type": "government_portal",
+            "publisher": "Ministry of Electronics & IT",
+            "title": "[found sos] cant login whatsapp browser - Lowyat.NET",
+            "retrieved_at": "2026-10-05T10:11:52.277346+00:00",
+            "evidence_text": "Feb 27, 2026 · Lowyat.NET -> Kopitiam -> Serious Kopitiam Bump Topic Add Reply RSS Feed Bottom Outline · [ Standard ] · Linear+ …",
+            "document_date": null,
+            "authority_level": "PRIMARY",
+            "page": null
+          },
+          "confidence": 0.8,
+          "evidence_snippet": "rs\n20,753 "
+        },
+        {
+          "value": 19251.0,
+          "source": {
+            "source_id": "data_gov_in_4832",
+            "source_url": "https://forum.lowyat.net/topic/5565190",
+            "source_name": "Open Government Data Portal India (data.gov.in)",
+            "source_type": "government_portal",
+            "publisher": "Ministry of Electronics & IT",
+            "title": "Whatsapp Desktop dah jadi fb app - Lowyat.NET",
+            "retrieved_at": "2026-10-05T10:11:52.277550+00:00",
+            "evidence_text": "May 20, 2026 · As usual in the morning I'll launch my whatsapp desktop app. Suddenly the app shows itself as below, unlike the normal …",
+            "document_date": null,
+            "authority_level": "PRIMARY",
+            "page": null
+          },
+          "confidence": 0.8,
+          "evidence_snippet": "rs\n19,251 "
+        }
+      ],
+      "evidence_text": "Conflicting values reported across sources for 'estimated_cost'",
+      "retrieved_at": "2026-10-05T10:14:58.608701+00:00"
+    },
+    "tender_value": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:14:58.608797+00:00"
+    },
+    "awarded_cost": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:14:58.608841+00:00"
+    },
+    "project_length": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:14:58.608878+00:00"
+    },
+    "road_length_km": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:14:58.608915+00:00"
+    },
+    "lanes": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:14:58.608950+00:00"
+    },
+    "number_of_lanes": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:14:58.608983+00:00"
+    },
+    "location": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:14:58.609016+00:00"
+    },
+    "district": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:14:58.609050+00:00"
+    },
+    "mandal": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:14:58.609084+00:00"
+    },
+    "constituency": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:14:58.609117+00:00"
+    },
+    "start_point": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:14:58.609150+00:00"
+    },
+    "end_point": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:14:58.609182+00:00"
+    },
+    "start_chainage": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:14:58.609234+00:00"
+    },
+    "end_chainage": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:14:58.609270+00:00"
+    },
+    "latitude": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:14:58.609301+00:00"
+    },
+    "longitude": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:14:58.609333+00:00"
+    },
+    "status": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:14:58.609365+00:00"
+    },
+    "completion_date": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:14:58.609397+00:00"
+    },
+    "contract_start_date": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:14:58.609429+00:00"
+    },
+    "contract_end_date": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:14:58.609461+00:00"
+    },
+    "work_order_number": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:14:58.609494+00:00"
+    },
+    "funding_agency": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:14:58.609526+00:00"
+    },
+    "road_number": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:14:58.609557+00:00"
+    },
+    "dpr_reference": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:14:58.609590+00:00"
+    },
+    "physical_progress": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:14:58.609626+00:00"
+    },
+    "financial_progress": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:14:58.609659+00:00"
+    },
+    "delay_reason": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:14:58.609692+00:00"
+    },
+    "execution_mode": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:14:58.609723+00:00"
+    },
+    "road_structure": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:14:58.609755+00:00"
+    },
+    "foundation": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:14:58.609786+00:00"
+    },
+    "viaduct_length": {
+      "value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "sources": [],
+      "candidate_values": [],
+      "evidence_text": null,
+      "retrieved_at": "2026-10-05T10:14:58.609818+00:00"
+    }
+  },
+  "sources": [
+    {
+      "source_id": "nhai_5114",
+      "source_url": "https://support.microsoft.com/en-us/windows/how-to-get-help-in-windows-711b6492-0435-0038-8706-7c6b0feb200a",
+      "source_name": "National Highways Authority of India (NHAI)",
+      "source_type": "government_portal",
+      "publisher": "Ministry of Road Transport & Highways",
+      "title": "How to get help in Windows - Microsoft Support",
+      "retrieved_at": "2026-10-05T10:11:22.874405+00:00",
+      "evidence_text": "Search for help on the taskbar, use the Tips app, select the Get help link in the Settings app, or go to support.microsoft.com/windows.",
+      "document_date": null,
+      "authority_level": "PRIMARY",
+      "page": null
+    },
+    {
+      "source_id": "nhai_294",
+      "source_url": "https://www.wikihow.com/Get-Help-in-Windows-11",
+      "source_name": "National Highways Authority of India (NHAI)",
+      "source_type": "government_portal",
+      "publisher": "Ministry of Road Transport & Highways",
+      "title": "How to Get Help in Windows 11: 3 Quick & Easy Ways",
+      "retrieved_at": "2026-10-05T10:11:22.874561+00:00",
+      "evidence_text": "Mar 21, 2026 · The Get Help app will populate with articles from Microsoft Support and Microsoft's help community forum. Click on …",
+      "document_date": null,
+      "authority_level": "PRIMARY",
+      "page": null
+    },
+    {
+      "source_id": "nhai_3160",
+      "source_url": "https://www.microsoft.com/en-us/windows/help-and-support?msockid=3e5a69f1a0846c6c27da7e18a12f6d58",
+      "source_name": "National Highways Authority of India (NHAI)",
+      "source_type": "government_portal",
+      "publisher": "Ministry of Road Transport & Highways",
+      "title": "Windows help and supportWindows help and support",
+      "retrieved_at": "2026-10-05T10:11:22.874666+00:00",
+      "evidence_text": "Find the Windows help and support you need. From account setup to device support, search for quick answers and helpful resources …",
+      "document_date": null,
+      "authority_level": "PRIMARY",
+      "page": null
+    },
+    {
+      "source_id": "morth_29",
+      "source_url": "https://xhaccess.com/search/xxx",
+      "source_name": "Ministry of Road Transport and Highways (MoRTH)",
+      "source_type": "government_portal",
+      "publisher": "MoRTH",
+      "title": "XXX Porn Videos - xHamster",
+      "retrieved_at": "2026-10-05T10:11:33.985029+00:00",
+      "evidence_text": "Watch XXX porn videos. Explore tons of XXX movies with sex scenes in 2026 on xHamster!",
+      "document_date": null,
+      "authority_level": "PRIMARY",
+      "page": null
+    },
+    {
+      "source_id": "morth_273",
+      "source_url": "https://hi.xhamster.desi/",
+      "source_name": "Ministry of Road Transport and Highways (MoRTH)",
+      "source_type": "government_portal",
+      "publisher": "MoRTH",
+      "title": "मुफ्त पोर्न वीडियो&XXX फिल्में: सेक्स वीडियो ट्यूब | xHamster",
+      "retrieved_at": "2026-10-05T10:11:33.985238+00:00",
+      "evidence_text": "xHamster पर मुफ़्त पोर्न वीडियो और विशिष्ट XXX फ़िल्में उपलब्ध है। उच्च गुणवत्ता वाली पोर्न ट्यूब पर पेशेवरो और शौकिया लोगों के …",
+      "document_date": null,
+      "authority_level": "PRIMARY",
+      "page": null
+    },
+    {
+      "source_id": "morth_3392",
+      "source_url": "https://hqtube.xxx/en/popular/",
+      "source_name": "Ministry of Road Transport and Highways (MoRTH)",
+      "source_type": "government_portal",
+      "publisher": "MoRTH",
+      "title": "Popular XXX Videos - Watch now: free high quality porn videos most ...",
+      "retrieved_at": "2026-10-05T10:11:33.985374+00:00",
+      "evidence_text": "Popular XXX Videos All the XXX flicks fans like you keep watching over and over. Can't-miss porn for free!",
+      "document_date": null,
+      "authority_level": "PRIMARY",
+      "page": null
+    },
+    {
+      "source_id": "cppp_eproc_9709",
+      "source_url": "https://support.google.com/chrome/answer/95346?hl=hu&co=GENIE.Platform=Desktop",
+      "source_name": "Central Public Procurement Portal (CPPP / eProcure)",
+      "source_type": "government_portal",
+      "publisher": "NIC / Ministry of Finance",
+      "title": "A Google Chrome letöltése és telepítése",
+      "retrieved_at": "2026-10-05T10:11:46.209307+00:00",
+      "evidence_text": "A Chrome első indításakor el kell olvasnia és el kell fogadnia a Google Általános Szerződési Feltételeit. Tipp: Annak …",
+      "document_date": null,
+      "authority_level": "PRIMARY",
+      "page": null
+    },
+    {
+      "source_id": "cppp_eproc_1593",
+      "source_url": "https://support.google.com/chrome/answer/95346?hl=pt-BR&co=GENIE.Platform=Desktop",
+      "source_name": "Central Public Procurement Portal (CPPP / eProcure)",
+      "source_type": "government_portal",
+      "publisher": "NIC / Ministry of Finance",
+      "title": "Fazer o download e instalar o Google Chrome",
+      "retrieved_at": "2026-10-05T10:11:46.209468+00:00",
+      "evidence_text": "Você pode baixar e instalar o navegador da Web Chrome sem custos financeiros e usá-lo para navegar na Web. Conferir os …",
+      "document_date": null,
+      "authority_level": "PRIMARY",
+      "page": null
+    },
+    {
+      "source_id": "cppp_eproc_7376",
+      "source_url": "https://support.google.com/chrome/answer/95346?hl=fr&co=GENIE.Platform=Desktop",
+      "source_name": "Central Public Procurement Portal (CPPP / eProcure)",
+      "source_type": "government_portal",
+      "publisher": "NIC / Ministry of Finance",
+      "title": "Télécharger et installer Google Chrome",
+      "retrieved_at": "2026-10-05T10:11:46.209569+00:00",
+      "evidence_text": "Installer Chrome hors connexion Si vous rencontrez des problèmes lors du téléchargement de Chrome sur votre …",
+      "document_date": null,
+      "authority_level": "PRIMARY",
+      "page": null
+    },
+    {
+      "source_id": "data_gov_in_3431",
+      "source_url": "https://forum.lowyat.net/topic/5556445",
+      "source_name": "Open Government Data Portal India (data.gov.in)",
+      "source_type": "government_portal",
+      "publisher": "Ministry of Electronics & IT",
+      "title": "[found sos] cant login whatsapp browser - Lowyat.NET",
+      "retrieved_at": "2026-10-05T10:11:52.277346+00:00",
+      "evidence_text": "Feb 27, 2026 · Lowyat.NET -> Kopitiam -> Serious Kopitiam Bump Topic Add Reply RSS Feed Bottom Outline · [ Standard ] · Linear+ …",
+      "document_date": null,
+      "authority_level": "PRIMARY",
+      "page": null
+    },
+    {
+      "source_id": "data_gov_in_4832",
+      "source_url": "https://forum.lowyat.net/topic/5565190",
+      "source_name": "Open Government Data Portal India (data.gov.in)",
+      "source_type": "government_portal",
+      "publisher": "Ministry of Electronics & IT",
+      "title": "Whatsapp Desktop dah jadi fb app - Lowyat.NET",
+      "retrieved_at": "2026-10-05T10:11:52.277550+00:00",
+      "evidence_text": "May 20, 2026 · As usual in the morning I'll launch my whatsapp desktop app. Suddenly the app shows itself as below, unlike the normal …",
+      "document_date": null,
+      "authority_level": "PRIMARY",
+      "page": null
+    },
+    {
+      "source_id": "data_gov_in_3588",
+      "source_url": "https://answers.microsoft.com/en-us/msoffice/forum/all/excel-macro-save-a-picture/8b2840ca-d11f-4a32-84b0-217722a54697",
+      "source_name": "Open Government Data Portal India (data.gov.in)",
+      "source_type": "government_portal",
+      "publisher": "Ministry of Electronics & IT",
+      "title": "Microsoft Community",
+      "retrieved_at": "2026-10-05T10:11:52.277685+00:00",
+      "evidence_text": "Microsoft Community",
+      "document_date": null,
+      "authority_level": "PRIMARY",
+      "page": null
+    },
+    {
+      "source_id": "telangana_rnb_3617",
+      "source_url": "https://chatgpt.com/",
+      "source_name": "Telangana Roads & Buildings Department (R&B)",
+      "source_type": "government_portal",
+      "publisher": "Roads & Buildings",
+      "title": "ChatGPT: Chat, Work, Create & Code with AI",
+      "retrieved_at": "2026-10-05T10:12:16.546606+00:00",
+      "evidence_text": "Use ChatGPT to answer questions, write, create images, complete work, and code—all in one place. Get started for free or …",
+      "document_date": null,
+      "authority_level": "PRIMARY",
+      "page": null
+    },
+    {
+      "source_id": "telangana_rnb_7802",
+      "source_url": "https://openai.com/index/chatgpt/",
+      "source_name": "Telangana Roads & Buildings Department (R&B)",
+      "source_type": "government_portal",
+      "publisher": "Roads & Buildings",
+      "title": "Introducing ChatGPT - OpenAI",
+      "retrieved_at": "2026-10-05T10:12:16.546852+00:00",
+      "evidence_text": "Nov 30, 2022 · ChatGPT has evolved substantially since then. We’ve trained a model called ChatGPT which interacts in a …",
+      "document_date": null,
+      "authority_level": "PRIMARY",
+      "page": null
+    }
+  ],
+  "field_verifications": {
+    "project_name": "NOT_FOUND",
+    "project_id": "NOT_FOUND",
+    "government_project_id": "NOT_FOUND",
+    "tender_id": "NOT_FOUND",
+    "reference_number": "NOT_FOUND",
+    "tender_reference": "NOT_FOUND",
+    "tender_publication_date": "NOT_FOUND",
+    "publication_date": "NOT_FOUND",
+    "tender_closing_date": "NOT_FOUND",
+    "submission_deadline": "NOT_FOUND",
+    "award_date": "NOT_FOUND",
+    "awarded_date": "NOT_FOUND",
+    "government_order_number": "NOT_FOUND",
+    "government_order_date": "NOT_FOUND",
+    "authority": "NOT_FOUND",
+    "department": "NOT_FOUND",
+    "contractor": "NOT_FOUND",
+    "contractor_registration": "NOT_FOUND",
+    "estimated_cost": "CONFLICTING",
+    "tender_value": "NOT_FOUND",
+    "awarded_cost": "NOT_FOUND",
+    "project_length": "NOT_FOUND",
+    "road_length_km": "NOT_FOUND",
+    "lanes": "NOT_FOUND",
+    "number_of_lanes": "NOT_FOUND",
+    "location": "NOT_FOUND",
+    "district": "NOT_FOUND",
+    "mandal": "NOT_FOUND",
+    "constituency": "NOT_FOUND",
+    "start_point": "NOT_FOUND",
+    "end_point": "NOT_FOUND",
+    "start_chainage": "NOT_FOUND",
+    "end_chainage": "NOT_FOUND",
+    "latitude": "NOT_FOUND",
+    "longitude": "NOT_FOUND",
+    "status": "NOT_FOUND",
+    "completion_date": "NOT_FOUND",
+    "contract_start_date": "NOT_FOUND",
+    "contract_end_date": "NOT_FOUND",
+    "work_order_number": "NOT_FOUND",
+    "funding_agency": "NOT_FOUND",
+    "road_number": "NOT_FOUND",
+    "dpr_reference": "NOT_FOUND",
+    "physical_progress": "NOT_FOUND",
+    "financial_progress": "NOT_FOUND",
+    "delay_reason": "NOT_FOUND",
+    "execution_mode": "NOT_FOUND",
+    "road_structure": "NOT_FOUND",
+    "foundation": "NOT_FOUND",
+    "viaduct_length": "NOT_FOUND"
+  },
+  "research_metadata": {
+    "searched_at": "2026-10-05T10:14:58.609856+00:00",
+    "research_duration": 269.1453,
+    "sources_checked": 7,
+    "sources_successfully_accessed": 14,
+    "sources_selected": 7,
+    "sources_attempted": 7,
+    "sources_accessed": 14,
+    "sources_failed": 1,
+    "sources_not_accessible": 0,
+    "source_results_found": 14,
+    "source_results_used": 14,
+    "fields_requested": 50,
+    "fields_found": 1,
+    "fields_verified": 0,
+    "fields_unverified": 0,
+    "fields_not_found": 49,
+    "conflicts_found": 1,
+    "research_status": "COMPLETED"
+  },
+  "research_run_id": 14,
+  "evidence": [
+    {
+      "field_name": "project_name",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:14:58.648089"
+    },
+    {
+      "field_name": "project_id",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:14:58.648102"
+    },
+    {
+      "field_name": "government_project_id",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:14:58.648107"
+    },
+    {
+      "field_name": "tender_id",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:14:58.648112"
+    },
+    {
+      "field_name": "reference_number",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:14:58.648116"
+    },
+    {
+      "field_name": "tender_reference",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:14:58.648121"
+    },
+    {
+      "field_name": "tender_publication_date",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:14:58.648125"
+    },
+    {
+      "field_name": "publication_date",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:14:58.648130"
+    },
+    {
+      "field_name": "tender_closing_date",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:14:58.648134"
+    },
+    {
+      "field_name": "submission_deadline",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:14:58.648138"
+    },
+    {
+      "field_name": "award_date",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:14:58.648143"
+    },
+    {
+      "field_name": "awarded_date",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:14:58.648147"
+    },
+    {
+      "field_name": "government_order_number",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:14:58.648152"
+    },
+    {
+      "field_name": "government_order_date",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:14:58.648156"
+    },
+    {
+      "field_name": "authority",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:14:58.648161"
+    },
+    {
+      "field_name": "department",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:14:58.648165"
+    },
+    {
+      "field_name": "contractor",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:14:58.648169"
+    },
+    {
+      "field_name": "contractor_registration",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:14:58.648174"
+    },
+    {
+      "field_name": "estimated_cost",
+      "extracted_value": null,
+      "verification_status": "CONFLICTING",
+      "confidence": 0.3,
+      "evidence_snippet": "Conflicting values reported across sources for 'estimated_cost'",
+      "source_url": "https://www.wikihow.com/Get-Help-in-Windows-11",
+      "retrieved_at": "2026-10-05T10:14:58.648179"
+    },
+    {
+      "field_name": "tender_value",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:14:58.648183"
+    },
+    {
+      "field_name": "awarded_cost",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:14:58.648188"
+    },
+    {
+      "field_name": "project_length",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:14:58.648193"
+    },
+    {
+      "field_name": "road_length_km",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:14:58.648197"
+    },
+    {
+      "field_name": "lanes",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:14:58.648202"
+    },
+    {
+      "field_name": "number_of_lanes",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:14:58.648227"
+    },
+    {
+      "field_name": "location",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:14:58.648232"
+    },
+    {
+      "field_name": "district",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:14:58.648237"
+    },
+    {
+      "field_name": "mandal",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:14:58.648241"
+    },
+    {
+      "field_name": "constituency",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:14:58.648246"
+    },
+    {
+      "field_name": "start_point",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:14:58.648250"
+    },
+    {
+      "field_name": "end_point",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:14:58.648254"
+    },
+    {
+      "field_name": "start_chainage",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:14:58.648259"
+    },
+    {
+      "field_name": "end_chainage",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:14:58.648264"
+    },
+    {
+      "field_name": "latitude",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:14:58.648268"
+    },
+    {
+      "field_name": "longitude",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:14:58.648273"
+    },
+    {
+      "field_name": "status",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:14:58.648277"
+    },
+    {
+      "field_name": "completion_date",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:14:58.648281"
+    },
+    {
+      "field_name": "contract_start_date",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:14:58.648286"
+    },
+    {
+      "field_name": "contract_end_date",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:14:58.648290"
+    },
+    {
+      "field_name": "work_order_number",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:14:58.648295"
+    },
+    {
+      "field_name": "funding_agency",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:14:58.648299"
+    },
+    {
+      "field_name": "road_number",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:14:58.648304"
+    },
+    {
+      "field_name": "dpr_reference",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:14:58.648308"
+    },
+    {
+      "field_name": "physical_progress",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:14:58.648313"
+    },
+    {
+      "field_name": "financial_progress",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:14:58.648317"
+    },
+    {
+      "field_name": "delay_reason",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:14:58.648321"
+    },
+    {
+      "field_name": "execution_mode",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:14:58.648326"
+    },
+    {
+      "field_name": "road_structure",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:14:58.648330"
+    },
+    {
+      "field_name": "foundation",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:14:58.648335"
+    },
+    {
+      "field_name": "viaduct_length",
+      "extracted_value": null,
+      "verification_status": "NOT_FOUND",
+      "confidence": 0.0,
+      "evidence_snippet": null,
+      "source_url": null,
+      "retrieved_at": "2026-10-05T10:14:58.648339"
+    }
+  ],
+  "candidate_values": [
+    {
+      "value": 2.0,
+      "source": {
+        "source_id": "nhai_294",
+        "source_url": "https://www.wikihow.com/Get-Help-in-Windows-11",
+        "source_name": "National Highways Authority of India (NHAI)",
+        "source_type": "government_portal",
+        "publisher": "Ministry of Road Transport & Highways",
+        "title": "How to Get Help in Windows 11: 3 Quick & Easy Ways",
+        "retrieved_at": "2026-10-05T10:11:22.874561+00:00",
+        "evidence_text": "Mar 21, 2026 · The Get Help app will populate with articles from Microsoft Support and Microsoft's help community forum. Click on …",
+        "document_date": null,
+        "authority_level": "PRIMARY",
+        "page": null
+      },
+      "confidence": 0.8,
+      "evidence_snippet": "rs:\n2\n",
+      "field_name": "estimated_cost"
+    },
+    {
+      "value": 20753.0,
+      "source": {
+        "source_id": "data_gov_in_3431",
+        "source_url": "https://forum.lowyat.net/topic/5556445",
+        "source_name": "Open Government Data Portal India (data.gov.in)",
+        "source_type": "government_portal",
+        "publisher": "Ministry of Electronics & IT",
+        "title": "[found sos] cant login whatsapp browser - Lowyat.NET",
+        "retrieved_at": "2026-10-05T10:11:52.277346+00:00",
+        "evidence_text": "Feb 27, 2026 · Lowyat.NET -> Kopitiam -> Serious Kopitiam Bump Topic Add Reply RSS Feed Bottom Outline · [ Standard ] · Linear+ …",
+        "document_date": null,
+        "authority_level": "PRIMARY",
+        "page": null
+      },
+      "confidence": 0.8,
+      "evidence_snippet": "rs\n20,753 ",
+      "field_name": "estimated_cost"
+    },
+    {
+      "value": 19251.0,
+      "source": {
+        "source_id": "data_gov_in_4832",
+        "source_url": "https://forum.lowyat.net/topic/5565190",
+        "source_name": "Open Government Data Portal India (data.gov.in)",
+        "source_type": "government_portal",
+        "publisher": "Ministry of Electronics & IT",
+        "title": "Whatsapp Desktop dah jadi fb app - Lowyat.NET",
+        "retrieved_at": "2026-10-05T10:11:52.277550+00:00",
+        "evidence_text": "May 20, 2026 · As usual in the morning I'll launch my whatsapp desktop app. Suddenly the app shows itself as below, unlike the normal …",
+        "document_date": null,
+        "authority_level": "PRIMARY",
+        "page": null
+      },
+      "confidence": 0.8,
+      "evidence_snippet": "rs\n19,251 ",
+      "field_name": "estimated_cost"
+    }
+  ],
+  "verification": {
+    "project_name": "NOT_FOUND",
+    "project_id": "NOT_FOUND",
+    "government_project_id": "NOT_FOUND",
+    "tender_id": "NOT_FOUND",
+    "reference_number": "NOT_FOUND",
+    "tender_reference": "NOT_FOUND",
+    "tender_publication_date": "NOT_FOUND",
+    "publication_date": "NOT_FOUND",
+    "tender_closing_date": "NOT_FOUND",
+    "submission_deadline": "NOT_FOUND",
+    "award_date": "NOT_FOUND",
+    "awarded_date": "NOT_FOUND",
+    "government_order_number": "NOT_FOUND",
+    "government_order_date": "NOT_FOUND",
+    "authority": "NOT_FOUND",
+    "department": "NOT_FOUND",
+    "contractor": "NOT_FOUND",
+    "contractor_registration": "NOT_FOUND",
+    "estimated_cost": "CONFLICTING",
+    "tender_value": "NOT_FOUND",
+    "awarded_cost": "NOT_FOUND",
+    "project_length": "NOT_FOUND",
+    "road_length_km": "NOT_FOUND",
+    "lanes": "NOT_FOUND",
+    "number_of_lanes": "NOT_FOUND",
+    "location": "NOT_FOUND",
+    "district": "NOT_FOUND",
+    "mandal": "NOT_FOUND",
+    "constituency": "NOT_FOUND",
+    "start_point": "NOT_FOUND",
+    "end_point": "NOT_FOUND",
+    "start_chainage": "NOT_FOUND",
+    "end_chainage": "NOT_FOUND",
+    "latitude": "NOT_FOUND",
+    "longitude": "NOT_FOUND",
+    "status": "NOT_FOUND",
+    "completion_date": "NOT_FOUND",
+    "contract_start_date": "NOT_FOUND",
+    "contract_end_date": "NOT_FOUND",
+    "work_order_number": "NOT_FOUND",
+    "funding_agency": "NOT_FOUND",
+    "road_number": "NOT_FOUND",
+    "dpr_reference": "NOT_FOUND",
+    "physical_progress": "NOT_FOUND",
+    "financial_progress": "NOT_FOUND",
+    "delay_reason": "NOT_FOUND",
+    "execution_mode": "NOT_FOUND",
+    "road_structure": "NOT_FOUND",
+    "foundation": "NOT_FOUND",
+    "viaduct_length": "NOT_FOUND"
+  },
+  "conflicts": [
+    {
+      "field_name": "estimated_cost",
+      "value": null,
+      "sources": [
+        {
+          "source_id": "nhai_294",
+          "source_url": "https://www.wikihow.com/Get-Help-in-Windows-11",
+          "source_name": "National Highways Authority of India (NHAI)",
+          "source_type": "government_portal",
+          "publisher": "Ministry of Road Transport & Highways",
+          "title": "How to Get Help in Windows 11: 3 Quick & Easy Ways",
+          "retrieved_at": "2026-10-05T10:11:22.874561+00:00",
+          "evidence_text": "Mar 21, 2026 · The Get Help app will populate with articles from Microsoft Support and Microsoft's help community forum. Click on …",
+          "document_date": null,
+          "authority_level": "PRIMARY",
+          "page": null
+        },
+        {
+          "source_id": "data_gov_in_3431",
+          "source_url": "https://forum.lowyat.net/topic/5556445",
+          "source_name": "Open Government Data Portal India (data.gov.in)",
+          "source_type": "government_portal",
+          "publisher": "Ministry of Electronics & IT",
+          "title": "[found sos] cant login whatsapp browser - Lowyat.NET",
+          "retrieved_at": "2026-10-05T10:11:52.277346+00:00",
+          "evidence_text": "Feb 27, 2026 · Lowyat.NET -> Kopitiam -> Serious Kopitiam Bump Topic Add Reply RSS Feed Bottom Outline · [ Standard ] · Linear+ …",
+          "document_date": null,
+          "authority_level": "PRIMARY",
+          "page": null
+        },
+        {
+          "source_id": "data_gov_in_4832",
+          "source_url": "https://forum.lowyat.net/topic/5565190",
+          "source_name": "Open Government Data Portal India (data.gov.in)",
+          "source_type": "government_portal",
+          "publisher": "Ministry of Electronics & IT",
+          "title": "Whatsapp Desktop dah jadi fb app - Lowyat.NET",
+          "retrieved_at": "2026-10-05T10:11:52.277550+00:00",
+          "evidence_text": "May 20, 2026 · As usual in the morning I'll launch my whatsapp desktop app. Suddenly the app shows itself as below, unlike the normal …",
+          "document_date": null,
+          "authority_level": "PRIMARY",
+          "page": null
+        }
+      ],
+      "evidence_snippet": "Conflicting values reported across sources for 'estimated_cost'"
+    }
+  ],
+  "quality_report": {
+    "report_id": 14,
+    "research_run_id": 14,
+    "project_name": "DEVELOPMENT OF NEW A SITE RO AT LOCATION FROM BAGEPALI JUNCTION TO PERESANDRA CROSS ON HYDERABAD BANGALORE ROAD (NH-7) LHS, CHIKKABALLAPUR/ MnC/SR/URV/LT/009/KASO/2026-27",
+    "overall_quality_score": 0.5,
+    "quality_class": "POOR",
+    "fields_checked": 22,
+    "fields_valid": 0,
+    "fields_suspicious": 0,
+    "fields_invalid": 0,
+    "fields_missing": 23,
+    "fields_unsupported": 0,
+    "cross_source_conflicts": 0,
+    "stale_fields_count": 0,
+    "duplicate_candidates_count": 1,
+    "quarantined": false,
+    "is_quarantined": false,
+    "merge_eligible": false,
+    "created_at": "2026-10-05T10:15:09.312998",
+    "issues": []
+  }
+}
